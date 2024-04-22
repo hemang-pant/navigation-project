@@ -1,0 +1,402 @@
+  [
+    {
+      "name": "Tata Power - Ginger Vastrapur Charging Station",
+      "address": "Opposite the Grand Bhagwati  SG Road  Bokadev",
+      "Contact": 9223581898,
+      "Number of slots": "Plugs DC - 2 Slots - CHAdeMO (Level 3) DC - 2 Slots - CCS2(V1) (Level 3)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0225,72.5714",
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    {
+      "name": "Tata Power - Riya Autolink Bokadev Charging Station",
+      "address": "Near Rajpath Club,SG highway",
+      "Contact": 9223581898,
+      "Number of slots": "Slots DC - 2 Slots - CHAdeMO (Level 3) DC - 2 Slots - CCS2(V1) (Level 3)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0225,72.5714",
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    {
+      "name": "M Glads Ev Chargers",
+      "address": "FF-34  Silver Triangle Complex  Vyas Wadi Circle  Nava Wadaj",
+      "Contact": 9879275111,
+      "Number of slots": "AC - 1 Slot - Type 2 (Level 2) DC - 1 Slot - GBT (Level 3)",
+      "Type of slots": "GBT, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0225,72.5714",
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    {
+      "name": "Electric Vehicle Charging Station",
+      "address": "Sarkhej Gandhi Nagar Highway Patel Society  Bhaikakanagar  Thaltej",
+      "Contact": 8128580004,
+      "Number of slots": "AC - 2 Slots - Type 1 (Level 1)",
+      "Type of slots": "AC TYPE 1",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0225,72.5714",
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    {
+      "name": "Positive Chemical, Ranpur",
+      "address": "Rk industrial Zone 8, plot no 1,2,3, village – ranpur, kuwadwa vankaner highway, district – Rajkot",
+      "Contact": 9223581898,
+      "Number of slots": "Slot-1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.353827,71.718349",
+      "latitude": 22.3538,
+      "longitude": 71.7183
+    },
+    {
+      "name": "Ginger Charging Station",
+      "address": "Behind Himalaya Mall, Drive In Road, Ahmedabad",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0463304,72.530908",
+      "latitude": 23.0463,
+      "longitude": 72.5309
+    },
+    {
+      "name": "Tata Power - (Riya Autolink) Charging Station",
+      "address": "Near Devkutir Bunglow, Opp Bopal Ambli BRTS Bus Stand, Iscon-Bopal Road, Ahmedabad, Gujarat",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.025563,72.479909",
+      "latitude": 23.0255,
+      "longitude": 72.4799
+    },
+    {
+      "name": "IOCL - Sardar Petro Station",
+      "address": "M/s Sardar Petrol Station, Near Toll Plaza Ring Road, Bakrol-Bardrabad, Daskroi",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.933708,72.518919",
+      "latitude": 22.9337,
+      "longitude": 72.5189
+    },
+    {
+      "name": "Westside Charging Station",
+      "address": "Ground Floor, Abhijeet V, Netaji Rd Ellisbridge Opp. Mayor Bungalow, Ellisbridge",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.029439,72.561501",
+      "latitude": 23.0294,
+      "longitude": 72.5615
+    },
+    {
+      "name": "MG - Highway, Makarba Charging Station",
+      "address": "Plot No 2, Ground Floor, Survey No 841/1 and 2, 10 Signature 1, Near Old Railway Line, SG Highway, Makarba, Ahmedabad",
+      "Contact": 7229044555,
+      "Number of slots": "DC - 2 Slots, CCS2(V1) (Level 3) - 1 Slots (50 KW), CHAdeMO (Level 3) - 1 Slots (50 KW)",
+      "Type of slots": "CCS-II, CHAdeMO, DC",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.99655,72.498207",
+      "latitude": 22.9965,
+      "longitude": 72.4982
+    },
+    {
+      "name": "FAirfield by Marriott Charging Station",
+      "address": "Ashram Rd, Satyawadi society,usmapura",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 8 ( CCS-2, CHADEMO-2,Type-II-2)",
+      "Type of slots": "CCS-II, CHAdeMO, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.04812,72.56962",
+      "latitude": 23.0481,
+      "longitude": 72.5696
+    },
+    {
+      "name": "JIO BP - Ahmedabad One Mall Charging Station",
+      "address": "Plot No. 216, T. P. Scheme 1, Near Vastrapur Lake, Vastrapur",
+      "Contact": 18008919023,
+      "Number of slots": "Slots - 4",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0399205,72.530628",
+      "latitude": 23.0399,
+      "longitude": 72.5306
+    },
+    {
+      "name": "Tml Yash Motors Narol",
+      "address": "opp mayauri trading company, near asopalav hotel, narol cross road, narol",
+      "Contact": 9521177507,
+      "Number of slots": "Slots - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.965154,72.591487",
+      "latitude": 22.9651,
+      "longitude": 72.5915
+    },
+    {
+      "name": "Hp - Autocare Bodakdev Charging Station",
+      "address": "JUDGES BUNGALOW ROAD, T VILLAGE : BODAKDEV",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 2",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.038761,72.511943",
+      "latitude": 23.0387,
+      "longitude": 72.5119
+    },
+    {
+      "name": "HP ServicE Center Sola Charging Station",
+      "address": "F.P. NO 232/1, Solaroad",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 2",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.065914,72.528303",
+      "latitude": 23.0659,
+      "longitude": 72.5283
+    },
+    {
+      "name": "Tata Power - (progressive cars), SG Highway Charging Station",
+      "address": "G-9, Shapath v, Beside Hotel Crowne Plaza",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.014341,72.503579",
+      "latitude": 23.0143,
+      "longitude": 72.5036
+    },
+    {
+      "name": "Westcoast KIA Charging Station",
+      "address": "171/1,2 Keshavbagh Party Plot,Sola,Ahmedabad",
+      "Contact": 8527000290,
+      "Number of slots": "Slots - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.077422,72.669354",
+      "latitude": 23.0774,
+      "longitude": 72.6694
+    },
+    {
+      "name": "HPCL INRO Gota Charging Station",
+      "address": "OPPOSITE SILVER NEST NEW, Gota Gam Rd, Prahlad nagar, Ahmedabad",
+      "Contact": 18008332233,
+      "Number of slots": "Slots - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.012144,72.511062",
+      "latitude": 23.0121,
+      "longitude": 72.5111
+    },
+    {
+      "name": "IOCL - Om Petroleum",
+      "address": "148/B Mouje : Kamod Pirana Circle 200Ft Ring Road Taluka : Daskroi",
+      "Contact": 9998899999,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,Bharat DC)",
+      "Type of slots": "CCS-II, CHAdeMO, Bharat DC-001",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.927409,72.54136",
+      "latitude": 22.9274,
+      "longitude": 72.5414
+    },
+    {
+      "name": "Narayani Hotels And Resorts",
+      "address": "Bhatt, Gandhinagar, Gujarat",
+      "Contact": 9223581898,
+      "Number of slots": "Slots - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.104848,72.630226",
+      "latitude": 23.1048,
+      "longitude": 72.6302
+    },
+    {
+      "name": "Indus University, Shilaj",
+      "address": "Rancharda Via, Shilaj, Ahemdabad",
+      "Contact": 9223581898,
+      "Number of slots": "Slots - 3",
+      "Type of slots": "CCS-II, AC PLUG POINT",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.069881,72.441251",
+      "latitude": 23.0699,
+      "longitude": 72.4413251
+    },
+    {
+      "name": "IOCL Laxmi Narayan Petroleum Changodar Charging Station",
+      "address": "National Highway 8A, Changodar",
+      "Contact": 9521177507,
+      "Number of slots": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+      "Type of slots": "CCS-II, CHAdeMO",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.919254,72.441085",
+      "latitude": 22.9193,
+      "longitude": 72.4411085
+    },
+    {
+      "name": "Iocl Ashtavinayak Petroleum Hirapur Ahmedabad Charging Station",
+      "address": "Survey NO.836, Hirapur Chaukadi, Village, Hirapur",
+      "Contact": 9521177507,
+      "Number of slots": "Slots - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.921849,72.711162",
+      "latitude": 22.921849,
+      "longitude": 72.711162
+    },
+    {
+      "name": "IOCL - Bhagwat Charging Station",
+      "address": "Sarkhej - Gandhinagar Hwy, Vasant Nagar, Gota",
+      "Contact": 9783212728,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.096376,72.531385",
+      "latitude": 23.096376,
+      "longitude": 72.531385
+    },
+    {
+      "name": "IOCL - Jay Babari Charging Station",
+      "address": "Jay Babari Petroleum,At: Godhavinr. Sanskar Dham School Ramdev Farm Bopal- Sanand Rd.",
+      "Contact": 9099818787,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0272884,72.420638",
+      "latitude": 23.0272884,
+      "longitude": 72.420638
+    },
+    {
+      "name": "M.N Charging Station",
+      "address": "M.N.Desai,Post Changodar Tal-Sanand",
+      "Contact": 9662500116,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.927777,72.445882",
+      "latitude": 22.927777,
+      "longitude": 72.445882
+    },
+    {
+      "name": "Narayan Charging Station",
+      "address": "R.s.no248 paiki mouje sari ahmedabad-rajkot nh8 tal sanand",
+      "Contact": 9824650050,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.02215,72.560039",
+      "latitude": 23.02215,
+      "longitude": 72.560039
+    },
+    {
+      "name": "IOCL - Shivoham Charging Station",
+      "address": "Survey No 728, NH 8, Sachodar, Jetalpur,",
+      "Contact": 7202813260,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.931755,72.59551",
+      "latitude": 22.931755,
+      "longitude": 72.59551
+    },
+    {
+      "name": "IOCL - Gokulesh Charging Station",
+      "address": "Survey No 281/12, Narol Cross Road, Narol Main Road, Narol",
+      "Contact": 18002333555,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.970497,72.589147",
+      "latitude": 22.970497,
+      "longitude": 72.589147
+    },
+    {
+      "name": "IOCL - Vihat Charging Station",
+      "address": "Muthiya, Asarva Naroda",
+      "Contact": 9898548999,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.069568,72.645164",
+      "latitude": 23.069568,
+      "longitude": 72.645164
+    },
+    {
+      "name": "IOCL - Vijay Charging Station",
+      "address": "Rakhial Cross Road, Rakhial",
+      "Contact": 6384471344,
+      "Number of slots": "Slot 2(Bharat AC001,Type2)",
+      "Type of slots": "Bharat AC001, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.0254773,72.617641",
+      "latitude": 23.0254773,
+      "longitude": 72.617641
+    },
+    {
+      "name": "Uma Innovative Manufacturing Co, Charging Station",
+      "address": "Survey No 1012, Bavla-Bagodara Highway, Bavla",
+      "Contact": 9223581898,
+      "Number of slots": "Slot-2",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.837863,72.36485",
+      "latitude": 22.837863,
+      "longitude": 72.36485
+    },
+    {
+      "name": "HPCL - Grand Millenium Satellite Charging Station",
+      "address": "Sector 2, Jodhpur Village",
+      "Contact": 9223581898,
+      "Number of slots": "Slot-1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.019691,72.52982",
+      "latitude": 23.019691,
+      "longitude": 72.52982
+    },
+    {
+      "name": "Hotel Bloom Suites, Charging Station",
+      "address": "Surdhara Circle, Nilmani Society, Near B/H Sal Hospital, Thaltej",
+      "Contact": 9742211172,
+      "Number of slots": "Slot-2",
+      "Type of slots": "CCS-II, AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.051266,72.525242",
+      "latitude": 23.051266,
+      "longitude": 72.525242
+    },
+    {
+      "name": "TML - Riya Auto Link, Sola Charging Station",
+      "address": "Near New High Court, Sola Flyover Bridge, SG Highway",
+      "Contact": 9223581898,
+      "Number of slots": "Slot-1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.076777,72.525199",
+      "latitude": 23.076777,
+      "longitude": 72.525199
+    },
+    {
+      "name": "IOCL - Kailash Petroleum Naroda Charging Station",
+      "address": "Nr. Galaxy Cinema",
+      "Contact": 9521177507,
+      "Number of slots": "Slot-1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.079645,72.654241",
+      "latitude": 23.079645,
+      "longitude": 72.654241
+    },
+    {
+      "name": "Ganesh Meridian Complex Charging Station",
+      "address": "Behind Ganesh Meridian Complex Sola Road, Sarkhej - Gandhinagar Hwy",
+      "Contact": 7940005000,
+      "Number of slots": "Slot - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.071256,72.524969",
+      "latitude": 23.071256,
+      "longitude": 72.524969
+    },
+    {
+      "name": "Charger - Bodakdev Charging Station",
+      "address": "Abhinav Girls Hostel, Bodakdev",
+      "Contact": 7829330410,
+      "Number of slots": "Slots - 1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/23.040487,72.511171",
+      "latitude": 23.040487,
+      "longitude": 72.511171
+    },
+    {
+      "name": "Reliance Pump Charging Station",
+      "address": "Bakrol, Bharuch, Gujarat",
+      "Contact": 18008919023,
+      "Number of slots": "Slot-1",
+      "Type of slots": "CCS-II",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.568403,72.913752",
+      "latitude": 22.568403,
+      "longitude": 72.913752
+    },
+    {
+      "name": "IOCL - Shree Gajanand Charging Station",
+      "address": "Shree Gajanand Petroleum Ahmedabad",
+      "Contact": 7829330410,
+      "Number of slots": "Slot-1",
+      "Type of slots": "AC TYPE 2",
+      "gsc_col-xs-12 href": "https://www.google.com/maps/dir/Current+Location/22.717606,72.425945",
+      "latitude": 22.717606,
+      "longitude": 72.425945
+    }
+  ]

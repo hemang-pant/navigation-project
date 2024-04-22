@@ -1,0 +1,1865 @@
+[
+  {
+    "name": "Vijay Group of Companies",
+    "address": "35  Chandivali  Off Saki Road  Andheri East",
+    "Contact": 9004050646,
+    "Charging Slot": "AC - 12 Slots - IEC 60309 (Level 1)",
+    "Port Type": "IEC 60309",
+    "latitude": 19.047806,
+    "longitude": 72.863104
+  },
+  {
+    "name": "Hotel Accord",
+    "address": "32J  Nehru Road  Santacruz East  Mumbai",
+    "Contact": 9920112925,
+    "Charging Slot": "AC - 2 Slots - 3PIN-15AMP Socket (Level 1)",
+    "Port Type": "",
+    "latitude": 19.06591,
+    "longitude": 72.84432
+  },
+  {
+    "name": "Tata Power - Sub Station Charging Station",
+    "address": "6 Lake Road  Sadan Wadi  Bhandup West",
+    "Contact": 919223581898,
+    "Charging Slot": "DC - 1 Slot - GBT (Level 3)",
+    "Port Type": "DC, GBT",
+    "latitude": 19.112172,
+    "longitude": 72.870789
+  },
+  {
+    "name": "Phoenix Marketcity",
+    "address": "Ground Floor  Lal Bahadur Shastri Marg  Parking Lot  Kurla  Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "AC - 2 Slots - IEC 60309 (Level 1) AC - 2 Slots - Type 2 (Level 1)",
+    "Port Type": "IEC 60309, AC TYPE 2",
+    "latitude": 19.048466,
+    "longitude": 72.839917
+  },
+  {
+    "name": "Tata Power - Carnac Receiving Station",
+    "address": "Inside Private Premises 34  Sant Tukaram Road  Carnac Bunder",
+    "Contact": 9223311389,
+    "Charging Slot": "Slot 5",
+    "Port Type": "Bharat AC001, AC TYPE 2",
+    "latitude": 18.966145,
+    "longitude": 72.833252
+  },
+  {
+    "name": "Tata Power - Borivali Receiving Station",
+    "address": "Tata Power Borivali Receiving Station Residential Colony Dattapada Road  Near Magathane Bus Depot  Malad  Borivali East",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "AC TYPE 2, Bharat DC-001",
+    "latitude": 19.075728,
+    "longitude": 72.820624
+  },
+  {
+    "name": "Moiz Apartments",
+    "address": "12th Road  Santacruz  Above Upadhyaya Nursing Home",
+    "Contact": 9869088296,
+    "Charging Slot": "AC - 1 Slot - 3PIN-15AMP Socket (Level 1)",
+    "Port Type": "Socket , 3PIN",
+    "latitude": 19.065128,
+    "longitude": 72.844238
+  },
+  {
+    "name": "Mass-Tech Controls Charging Station",
+    "address": "2/7  Meghal Industrial Estate  Devidayal Road  Mulund West",
+    "Contact": 912241704338,
+    "Charging Slot": "Slot - 3",
+    "Port Type": "GB/T, Socket , 3PIN",
+    "latitude": 19.122473,
+    "longitude": 72.866425
+  },
+  {
+    "name": "HPCL - Churchgate Charging Station",
+    "address": "157, Bhanushankar Yagnik Rd, Behind Petrolium House, Backbay Reclamation, Churchgate, Mumbai, Maharashtra",
+    "Contact": 9975950100,
+    "Charging Slot": "Slot-2",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 18.928084,
+    "longitude": 72.832269
+  },
+  {
+    "name": "TML keshva motors nahur west",
+    "address": "shop number 10 & 11 marathon max, Mulund, Goregaon, Link Rd",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.123308,
+    "longitude": 72.866928
+  },
+  {
+    "name": "brookfield Pay and Park",
+    "address": "Pay and Park, Central Ave, Hiranandani gardens",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 4",
+    "Port Type": "CCS-II, Bharat DC001 GB/T, CHAdeMO",
+    "latitude": 19.05041,
+    "longitude": 72.846466
+  },
+  {
+    "name": "MG - Mahanagar Gas Limited Wadala Charging Station",
+    "address": "MGL Terminal, opposite anik depot, wadala",
+    "Contact": 18008332233,
+    "Charging Slot": "slots - 5",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.044748,
+    "longitude": 72.846375
+  },
+  {
+    "name": "zenith chemical midc marol Charging Station",
+    "address": "MIDC Marol, andheri east residing",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.04782,
+    "longitude": 72.863098
+  },
+  {
+    "name": "IOCL Sahara Hospitality Charging Station",
+    "address": "Vile Parle , opp. Domestic Airport, Navpada, Vile Parle East, Vile Parle",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 6 ( CCS-2, CHADEMO-2,Bharat DC-2)",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.069099,
+    "longitude": 72.84375
+  },
+  {
+    "name": "MG - Aquaria Grande Charging Station",
+    "address": "Aquaria Grande, Shanti Ashram, Borivali West, Mumbai, Maharashtra, 400103",
+    "Contact": 9010693756,
+    "Charging Slot": "AC - 1 Slot, Type 2 (Level 2) - 1 Slots (7.5 KW)",
+    "Port Type": "AC PLUG POINT, AC TYPE 2",
+    "latitude": 19.074676,
+    "longitude": 72.819275
+  },
+  {
+    "name": "Fortune Cars Charging Station",
+    "address": "Plot No. D-400, TTC Industrial Area, MIDC, Near Uran Phata Signal, Nerul, Navi Mumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 5",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.030532,
+    "longitude": 72.901367
+  },
+  {
+    "name": "Ginger Mumbai Charging Station",
+    "address": "Teli - Gali Road, Andheri (East), Mumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.065155,
+    "longitude": 72.844214
+  },
+  {
+    "name": "Tata Power - RS, Versova Charging Station",
+    "address": "KL Walawalkar Marg, Sahayog Nagar, Bhudargarh Colony, Andheri West, Mumbai,",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.041616,
+    "longitude": 72.846466
+  },
+  {
+    "name": "IOCL, Breach Candy Charging Station",
+    "address": "Bhulabhai Desai Road, Breach Candy, near Tata Garden, Mumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 18.925903,
+    "longitude": 72.831848
+  },
+  {
+    "name": "IOCL - COCO, Prabhadevi Charging Station",
+    "address": "Plot No, P. N. 1207, CADELL RD. MUMBAI, PRABHADEVI CADEL RD., MUMBAI",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 18.928268,
+    "longitude": 72.832642
+  },
+  {
+    "name": "Nathani Heights Charging Station",
+    "address": "Junction of Bellasis Road and Dr D.B. Marg , Mumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 18.928104,
+    "longitude": 72.832251
+  },
+  {
+    "name": "CSMT Station Charging Station",
+    "address": "Chhatrapati Shivaji Maharaj Terminus, Fort, Mumbai, Maharashtra",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 5 ( CCS-2, CHADEMO-2,Bharat DC-1)",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 18.928262,
+    "longitude": 72.832635
+  },
+  {
+    "name": "IOCL COCO,Bandra Kurla Complex Charging Station",
+    "address": "Bandra Kurla Complex, New Coco At, C-67, Bharat Nagar Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai,",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "IOCL Kini Causway Charging Station",
+    "address": "36, SV Rd, Santosh Nagar, Bandra West, Mumbai, Maharashtra",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.057889,
+    "longitude": 72.836548
+  },
+  {
+    "name": "Brookfield, Powai Charging Station",
+    "address": "Spectra, High St, Hiranandani Gardens, Powai, Mumbai, Maharashtra",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 5",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.118406,
+    "longitude": 72.913685
+  },
+  {
+    "name": "Inderjit Cars",
+    "address": "Platinum Building, Ground Floor,Opp. Pleasant Park,Next To Brand Factory Showroom,Mira Road",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+    "Port Type": "CCS-2, CHAdeMO",
+    "latitude": 19.104126,
+    "longitude": 72.841042
+  },
+  {
+    "name": "Tata Power - DC Fast Charging Station",
+    "address": "SEP-2, B- East Pirojshanagar,, 3, Vikhroli Village Rd, Pirojshanagar, Vikhroli East",
+    "Contact": "TATA POWER",
+    "Charging Slot": "GB/T",
+    "Port Type": "",
+    "latitude": 19.072826,
+    "longitude": 72.818665
+  },
+  {
+    "name": "TP - Bombay House Charging Station",
+    "address": "Bombay House, Homi Modi St, Kala Ghoda, Fort",
+    "Contact": 2267171036,
+    "Charging Slot": "TATA POWER",
+    "Port Type": "GB/T",
+    "latitude": 18.925923,
+    "longitude": 72.831833
+  },
+  {
+    "name": "Tata Power - Malad RS Charging Station",
+    "address": "Malad, New Mahakali Nagar, Malvani, Malad West",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC TYPE 2, Bharat DC-001",
+    "latitude": 19.077524,
+    "longitude": 72.845599
+  },
+  {
+    "name": "TP - Mahalaxmi Charging Station",
+    "address": "Gandhi Nagar, Lower Parel",
+    "Contact": 9224000000,
+    "Charging Slot": "TATA POWER",
+    "Port Type": "GB/T",
+    "latitude": 18.93626,
+    "longitude": 72.831257
+  },
+  {
+    "name": "TP - BKC - 2",
+    "address": "The Tata Power Company limited, G Block BKC, University of Mumbai,Vidya Nagari, Kalina, Bandra East",
+    "Contact": 18002095161,
+    "Charging Slot": "TATA POWER",
+    "Port Type": "GB/T",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "Tata Power - Vikhroli Charging Station",
+    "address": "Pirojshanagar, Vikhroli, Mumbai",
+    "Contact": 18002095161,
+    "Charging Slot": "TATA POWER",
+    "Port Type": "GB/T",
+    "latitude": 19.072826,
+    "longitude": 72.818665
+  },
+  {
+    "name": "Shalimar food products, kurla west",
+    "address": "Shalimar bakery, opp habib hospital, near kurla weigh bridge, A H wadia marg, plot no. 214, haroon compound, kurla west",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.04842,
+    "longitude": 72.839923
+  },
+  {
+    "name": "Equinox business park",
+    "address": "Ambedkar nagar, kurla west, kurla",
+    "Contact": 18008332233,
+    "Charging Slot": "slots - 10",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.048393,
+    "longitude": 72.839941
+  },
+  {
+    "name": "JLR Navnit motors santacruz east charging station",
+    "address": "Jaguar land rover, navnit motors pvt. ltd metro Estate, 178, CST Road, Kalina, santacruz east, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.928268,
+    "longitude": 72.832642
+  },
+  {
+    "name": "Audi Service, Kalina",
+    "address": "167, cst road, kolivery village, MMRDA area, kalina, santacruz east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II",
+    "latitude": 18.928258,
+    "longitude": 72.83264
+  },
+  {
+    "name": "CR Kurla Station, Kurla East",
+    "address": "Kurla Station east below sky walk, jagruti nagar, nehru nagar, kurla (east), mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II, Bharat AC001",
+    "latitude": 19.04843,
+    "longitude": 72.839917
+  },
+  {
+    "name": "Park Bay CHS Santacruz East (Private Charger)",
+    "address": "Manipada RD, Kolivery village, vidya nagari, kalina, santacruz east, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.928268,
+    "longitude": 72.832642
+  },
+  {
+    "name": "CR Lokmanya Tilak Station Kurla",
+    "address": "Outside platform 1, beside LTT pay and park, LTT station, pipeline RD, Tilak nagar, kurla, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II, Bharat DC001 GB/T",
+    "latitude": 19.048413,
+    "longitude": 72.839924
+  },
+  {
+    "name": "Raheja Kalina (Private Charger)",
+    "address": "J.P. MORGAN TOWER OFF CST ROAD KALINA SANTACRUZ (E) MUMBAIKALINA",
+    "Contact": 9223581898,
+    "Charging Slot": 1,
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.928268,
+    "longitude": 72.832642
+  },
+  {
+    "name": "ICICI Bank, BKC",
+    "address": "ICICI Bank, Near NABARD, BKC",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-10",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.055854,
+    "longitude": 72.834253
+  },
+  {
+    "name": "Kotak 27 BKC Bandra East Charging Station (Private-only restricted use)",
+    "address": "27 BKC Road G Block BKC MMRDA Area Kalina Bandra East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 4 (Type-II)",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "Raheja Tower, Trident Road",
+    "address": "Trident Road, G block, BKC, bandra east",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 4",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "Spenta, Chembur",
+    "address": "VN purav marg, sion - trombay RD, near surana sethia hospital, chembur, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 5",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02274,
+    "longitude": 72.865906
+  },
+  {
+    "name": "Rustomjee Season Bandra East",
+    "address": "Nanasaheb dharmadhikari RD, near MIG colony, kala nagar, bandra east",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 6",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "Amrut Elegance, Vile Parle East",
+    "address": "vasant Smruti, 201, Dayaldas RD, navpada, vile parle east, vile parle, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.069104,
+    "longitude": 72.84375
+  },
+  {
+    "name": "Residentail Rustomjee Oriana, Bandra East",
+    "address": "N. Dharmadhikari road behind MIG club",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 23",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.055869,
+    "longitude": 72.865906
+  },
+  {
+    "name": "Hotel Suba International Andheri East Charging Station",
+    "address": "Sahar road, near cigarret factory, chakala, andheri east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II",
+    "latitude": 19.04781,
+    "longitude": 72.86311
+  },
+  {
+    "name": "Dattaramanand CHS Vile Parle East (Private Charger)",
+    "address": "Dattaramanand CHS LTD, Hanuman cross RD 2, near MCdonalds navpada, vile parle east",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 15",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.069104,
+    "longitude": 72.84375
+  },
+  {
+    "name": "Lodha NCP Wadala(Private-For residents only)",
+    "address": "Lodha new cuffe parade, off, eastern fwy, near wadala truck terminal, wadala east, mumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 4 ( CCS-2, CHADEMO-2,)",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.053084,
+    "longitude": 72.842322
+  },
+  {
+    "name": "Vile Parle Patidar Mandal, Vile Parle East",
+    "address": "Shri vile parle patidar mandal, sardar patel baugh, parleshwar road, vile parle east, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.069104,
+    "longitude": 72.84375
+  },
+  {
+    "name": "Raj Paradise Andheri East",
+    "address": "Raj Paradise CHS LTD, C wing, military raod",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 5",
+    "Port Type": "Bharat AC001, AC TYPE 2",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "Rustomjee Central Park, Chakala",
+    "address": "484 andheri kurla road, chakala, andheri east",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 9",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.04782,
+    "longitude": 72.863098
+  },
+  {
+    "name": "Seven Hills Hospital, Andheri East",
+    "address": "Seven Hills health city, marol maroshi road, andheri east",
+    "Contact": 9223581898,
+    "Charging Slot": 10,
+    "Port Type": "CCS-II, AC PLUG POINT, Bharat AC001",
+    "latitude": 19.04782,
+    "longitude": 72.863098
+  },
+  {
+    "name": "Pratha NGO Godrej Colony Vikhroli",
+    "address": "Highway Suvidha Godrej Colony Vikhroli Flyover Bridge Pirojshanagar Vikhroli Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 5",
+    "Port Type": "CCS-II, AC PLUG POINT",
+    "latitude": 19.072826,
+    "longitude": 72.818665
+  },
+  {
+    "name": "Tata Power - Colony Charging Station",
+    "address": "Tata Power colony, Aziz Baug",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.072826,
+    "longitude": 72.818665
+  },
+  {
+    "name": "Tata Power - BKC Receiving Station",
+    "address": "Tata Power BKC Substation, Near Asian Heart Hospital, Oppo. Bharat Diamond Bourse",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots-5",
+    "Port Type": "CCS-II, AC PLUG POINT, Bharat DC-001",
+    "latitude": 19.055869,
+    "longitude": 72.834259
+  },
+  {
+    "name": "Sahil Exotica, Chandivali",
+    "address": "Plot No-5, CTS No-46/4, Chandvali, Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.124883,
+    "longitude": 72.837895
+  },
+  {
+    "name": "Sahdev CHS,(Private Charger)",
+    "address": "NI Complex, Dahisar East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.153921,
+    "longitude": 72.854889
+  },
+  {
+    "name": "CABE, Borivali (private for Restricted use only)",
+    "address": "Survey No. 105 H No. 2 C.T.S. 12161 Link Road, Eksar Village",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "Bharat DC001 GB/T",
+    "latitude": 19.127514,
+    "longitude": 72.829285
+  },
+  {
+    "name": "92 Bellevue CHS (Private Charger)",
+    "address": "92 Bellevue  CHSL Sodawala Lane, Opp Sterling Hospital",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 5",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.157531,
+    "longitude": 72.842773
+  },
+  {
+    "name": "Raheja Green (Private Charger)",
+    "address": "Kulupwadi Borivali East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 8",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.170811,
+    "longitude": 72.83374
+  },
+  {
+    "name": "Wintergreen CHSL CCL (Rivali Park)",
+    "address": "Rivali Park, Food corporation of india warehouse, borivali east, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 12",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.176207,
+    "longitude": 72.835449
+  },
+  {
+    "name": "Blue Heaven CHS Chandivali (Private Charger)",
+    "address": "119f/6, Raheja Vihar, Chandivali, Tungwa",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.124901,
+    "longitude": 72.83797
+  },
+  {
+    "name": "Hotel Suba Galaxy Andheri East Charging Station",
+    "address": "NS Phadake Marg Opp Teli galliNear Eastern expres Highway Andheri East",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II",
+    "latitude": 19.138062,
+    "longitude": 72.844238
+  },
+  {
+    "name": "Vasant Marvel Glory CHS",
+    "address": "Vasant marvel glory CHS, Western Express Highway, Asha nagar Borivali",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.15762,
+    "longitude": 72.840454
+  },
+  {
+    "name": "Aster CHS (private Charger)",
+    "address": "Valley of flowers, kandivali evershine millenium paradise, Thakur Village Kandivali east mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 5",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.165649,
+    "longitude": 72.846558
+  },
+  {
+    "name": "Krishna Gokul Garden",
+    "address": "Gokul garden VWX, kandivali east, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.16217,
+    "longitude": 72.845947
+  },
+  {
+    "name": "Uni Design Jewellery Andheri East (Private Charger)",
+    "address": "Plot No. 3 Main Gate Uni Design House Rd Number 23 opp. Seepz Andheri East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-5",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.137805,
+    "longitude": 72.843994
+  },
+  {
+    "name": "Rustomjee Paramount, Khar West",
+    "address": "Rustomjee Paramount, 18th road, khar west",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.053888,
+    "longitude": 72.821106
+  },
+  {
+    "name": "Hymech Engineers Andheri East (private Charger)",
+    "address": "Hymech Engineers Plot 14 Road 10 MIDC Marol Andheri East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-4",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.144928,
+    "longitude": 72.852356
+  },
+  {
+    "name": "Raheja Vistas Powai(Private-Charger)",
+    "address": "Raheja Vista building, Raheja Vihar RD, Raheja vihar, chandivali, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC Type-2",
+    "latitude": 19.081848,
+    "longitude": 72.855347
+  },
+  {
+    "name": "Bhagtani Krishnaang, Powai",
+    "address": "IRB Road, MHADA Colony 20, Powai, Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.08139,
+    "longitude": 72.855438
+  },
+  {
+    "name": "Axis House, MIDC",
+    "address": "Plot no 37, MIDC marol industrial area, andheri east, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.145032,
+    "longitude": 72.852356
+  },
+  {
+    "name": "Tata Power - Dharavi Receiving Private Station",
+    "address": "Tata Power Dharavi Office",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.046692,
+    "longitude": 72.832153
+  },
+  {
+    "name": "Lodha Supremus Andheri (Private Charger)",
+    "address": "RD Number 11, near to lodha eternis, near hotel tunga international MIDC Andheri east, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC Type-2",
+    "latitude": 19.144984,
+    "longitude": 72.852356
+  },
+  {
+    "name": "Voler Wipro Powai (Private)",
+    "address": "A-Wing Kensington Hiranandani Gardens",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "Bharat DC001 GB/T",
+    "latitude": 19.02653,
+    "longitude": 72.84203
+  },
+  {
+    "name": "IOCL Filling Station, BKC",
+    "address": "Bandra Kurla Complex",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.05102,
+    "longitude": 72.84446
+  },
+  {
+    "name": "Kensington Powai (Private Charger)",
+    "address": "Ground floor, Kesington B-wing, business, hiranandani garden, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02566,
+    "longitude": 72.84222
+  },
+  {
+    "name": "SEEPZ-SEZ Near BFC Building",
+    "address": "Santacruz Electeonic export Processing Zone, Andheri east, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.05711,
+    "longitude": 72.8591
+  },
+  {
+    "name": "Avalon CHS Powai (Private Charger)",
+    "address": "Cliff ave, near hertiage garden, hiranandani gardens, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02593,
+    "longitude": 72.84257
+  },
+  {
+    "name": "Godrej Business District",
+    "address": "Godrej IT park, Godrej Business District, Vikhroli",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-4",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.07637,
+    "longitude": 72.8515
+  },
+  {
+    "name": "Winchester Powai (Private Charger)",
+    "address": "4W67+X2G, Hiranandani Gardens, Powai, Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02651,
+    "longitude": 72.84201
+  },
+  {
+    "name": "Ventura Powai(Private charger)",
+    "address": "Ventura building, ventura building, central ave, hiranandani gardens, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02564,
+    "longitude": 72.84221
+  },
+  {
+    "name": "Sanghavi House, Vile Parle West",
+    "address": "Plot no 34, Road no 3, JVPD, vile parle west",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.04672,
+    "longitude": 72.84848
+  },
+  {
+    "name": "L&T Emerald Isle Powai (Private - For residents only)",
+    "address": "New Mhada Colony, savarkar nagar, chandivali, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 8",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02462,
+    "longitude": 72.84289
+  },
+  {
+    "name": "Citipark, Power",
+    "address": "Credit Suisse, central ave, hiranandani gardens, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02564,
+    "longitude": 72.84221
+  },
+  {
+    "name": "Ajmera Zeon CHS Bhakti Park (Private Charger)",
+    "address": "Bhakti Park, Chembur, Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.04189,
+    "longitude": 72.86078
+  },
+  {
+    "name": "DCSEM TMC hostel Western sector Anushaktinagar (Private-Charger)",
+    "address": "C V Raman Rd BS Ambedkar Nagar Chembur Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.04196,
+    "longitude": 72.86075
+  },
+  {
+    "name": "Prudential Powai (Private Charger)",
+    "address": "4w86+h6j, hiranandani gardens, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.02651,
+    "longitude": 72.84201
+  },
+  {
+    "name": "Fairmont Powai (Private Charger)",
+    "address": "4W77+F8R, Hiranandani gardens, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC Type-2",
+    "latitude": 19.02564,
+    "longitude": 72.84221
+  },
+  {
+    "name": "L&T AMN Tower Powai ( Private Charger)",
+    "address": "AMN Tower Krishna Nagar, Powai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 8",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.045596,
+    "longitude": 72.850803
+  },
+  {
+    "name": "Castle Rock Powai (Private Charger)",
+    "address": "Castle Rock A B C D, hiranandani gardens, powai, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 9",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.038666,
+    "longitude": 72.849739
+  },
+  {
+    "name": "Delphi, Powai",
+    "address": "Delphi building, Delphi orchard avenue, orchard ave, hiranandani gardens, panchkutir ganesh nagar, powai, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC Type-2",
+    "latitude": 19.047124,
+    "longitude": 72.850112
+  },
+  {
+    "name": "Godrej Platinum Vikhroli (Private Charger)",
+    "address": "Opposite godrej memorial hospital, pirojshshanagar, vikhroli, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.07469,
+    "longitude": 72.870224
+  },
+  {
+    "name": "J K Prints Vikhroli West (Private Charger)",
+    "address": "Mehra Estate, LBS marg, vikhroli west, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.074343,
+    "longitude": 72.868167
+  },
+  {
+    "name": "Rustomjee Garden 6, Matunga East",
+    "address": "Model no 639, Mancharji joshi road, near parsi colony fire temple parsi colony, five garden, matunga east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-3",
+    "Port Type": "AC Type-2",
+    "latitude": 19.031848,
+    "longitude": 72.849533
+  },
+  {
+    "name": "Rustomjee Elements, New D.N.nagar",
+    "address": "Rustomjee Elements, off juhu circle, new link Rd, opp the club, New D N Nagar",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC Type-2",
+    "latitude": 19.081379,
+    "longitude": 72.831546
+  },
+  {
+    "name": "Oberoi Prisma Jogeshwari East (Private Charger)",
+    "address": "Andheri (East, Jogeshwari - vikhroli link Rd, next to oberoi splendor, jogeshwari east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.070033,
+    "longitude": 72.847912
+  },
+  {
+    "name": "Tata Power - Mankhurd Receiving Station",
+    "address": "Tata Power Sub Station, near mankhurd-ghatkoper highway, mumbai pune road mankhurd",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.065002,
+    "longitude": 72.884172
+  },
+  {
+    "name": "Rustomjee Yazarina Wing A Dadar East",
+    "address": "Rustomjee Yazarina, Wing C Rd Number 5, dadar parsi colony, dadar east",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC Type-2",
+    "latitude": 19.021454,
+    "longitude": 72.835987
+  },
+  {
+    "name": "SPRINGS-1 CHS, Dadar",
+    "address": "Island city centre, G.D. ambedkar road, dadar",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 8",
+    "Port Type": "AC Type-2, Bharat AC001",
+    "latitude": 19.021574,
+    "longitude": 72.834707
+  },
+  {
+    "name": "CABE Kanjur Marg MCGM Parking Indira Nagar(Private-For Restricted use only)",
+    "address": "Wadhwa Group MCGM Parking near R City Mall Vikhroli Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 4",
+    "Port Type": "Bharat AC001, Bharat DC001 GB/T",
+    "latitude": 19.075945,
+    "longitude": 72.880012
+  },
+  {
+    "name": "Empress Residency Prabhadevi (Private Charger)",
+    "address": "392, Vest savarkar marg, opposite siddhivinayak temple, prabhadevi",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-8",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.025348,
+    "longitude": 72.836993
+  },
+  {
+    "name": "Raheja Ridgewood Goregaon (Private Charger)",
+    "address": "Raheja Ridgewood shri ram mandir RD off western express highway, hanuman nagar, NESCO, Goregaon , mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.1203,
+    "longitude": 72.846216
+  },
+  {
+    "name": "Tata Power - Thermal Plant Trombay Charging Station",
+    "address": "Corridor Road, Kalachauki, Mahul, Chember East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-11",
+    "Port Type": "Bharat AC001, Bharat DC001 GB/T",
+    "latitude": 19.071608,
+    "longitude": 72.81622
+  },
+  {
+    "name": "Indiabulls Sky Condominium Lower Parel (Private Charger)",
+    "address": "Indiabulls Sky Condominium 882 Senapati Bapat Marg Lower Parel Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.041199,
+    "longitude": 72.840626
+  },
+  {
+    "name": "Elanza Prabhadevi (Private Charge)",
+    "address": "J A Raul Marg, Prabhadevi",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 4",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.025259,
+    "longitude": 72.836978
+  },
+  {
+    "name": "Prithvi Emperor Prabhadevi (Private Charger)",
+    "address": "Mangalam developers, prathvi emperor, new prabhadevi road, near prabhadevi, mandir",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 4",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.025579,
+    "longitude": 72.836989
+  },
+  {
+    "name": "Dheeraj Gaurav Heights 2 CHSL, Andheri West",
+    "address": "Off new link road opposite infiniti mall, andheri west mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.068667,
+    "longitude": 72.833075
+  },
+  {
+    "name": "Axis House Budhkar Marg",
+    "address": "2nd floor axis house c-2 wadia international centre pandurang budhkar marg,mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.040637,
+    "longitude": 72.840801
+  },
+  {
+    "name": "Falcon Crest Parel (Private charger)",
+    "address": "103, Sindhu nagar, parel, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-8",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.020952,
+    "longitude": 72.835857
+  },
+  {
+    "name": "Omkar 1973 Worli (Private Charger)",
+    "address": "Omkar 1973 tower A CHS Ltd, off, Dr Annie besant Rd, next to neelam center, hanuman nagar, worli, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 8",
+    "Port Type": "AC Type-2, Bharat AC001",
+    "latitude": 18.964007,
+    "longitude": 72.830846
+  },
+  {
+    "name": "Raheja Artesia, Worli",
+    "address": "Worli, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 16",
+    "Port Type": "AC Type-2, Bharat AC001",
+    "latitude": 18.964007,
+    "longitude": 72.830846
+  },
+  {
+    "name": "IIFL Center Kamala City (Private Charger)",
+    "address": "IIFL Kamala City Senapati Bapat Marg Lower Parel West Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-4",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.04136,
+    "longitude": 72.840616
+  },
+  {
+    "name": "Trade World Premises Co-Op, Lower Parel",
+    "address": "Trade World Premises Co-Op Soc Ltd, Kamala Mills Compound, senapati bapat marg, lower parel west",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots-4",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.041405,
+    "longitude": 72.840639
+  },
+  {
+    "name": "IOCL FORT Motor Goregaon",
+    "address": "Plot no,CTS,589 A, Services Road, western highway, vill pahadi, aarey colony, goregaon",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.118133,
+    "longitude": 72.849222
+  },
+  {
+    "name": "Lodha Supremus, Lower Parel",
+    "address": "Senapati Bapat Marg, Opp, kamala mills compound, railway colony, lower parel, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.041405,
+    "longitude": 72.840639
+  },
+  {
+    "name": "Taj The President Charging Station",
+    "address": "President, Mumbai, IHCL Selection, Cuffe Parade 90, Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 1",
+    "Port Type": "CCS-II",
+    "latitude": 18.962898,
+    "longitude": 72.827016
+  },
+  {
+    "name": "Hotel Suba Palace",
+    "address": "Appllo Bunder Road, Near Gate Way Of India, Fort",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "CCS-II",
+    "latitude": 18.923245,
+    "longitude": 72.83597
+  },
+  {
+    "name": "Taj Wellington Mews",
+    "address": "33, Nathalal Parikh Marg, Cusrow Baug Colony, Apollo Bandar, Colaba, Mumbai",
+    "Contact": 8527000290,
+    "Charging Slot": "Slot 2",
+    "Port Type": "CCS-II",
+    "latitude": 18.923444,
+    "longitude": 72.835952
+  },
+  {
+    "name": "Maker Tower",
+    "address": "97/F, GD Somani Marg, Cuffe Parade, Colaba",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC Type-2",
+    "latitude": 18.962775,
+    "longitude": 72.826968
+  },
+  {
+    "name": "HPCL Bhavan Fort Charging Station",
+    "address": "Shoorji Vallabhdas Rd, Ballard Estate, Fort",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 18.924869,
+    "longitude": 72.836096
+  },
+  {
+    "name": "Kalpataru Habitat CHS Parel(Private Charger)",
+    "address": "Kalpataru Habitat CHS, Dr. SS Rao, Parel, Mmumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 4",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.042362,
+    "longitude": 72.839661
+  },
+  {
+    "name": "NCPA Apartments",
+    "address": "Apsara Co. Operative Housing Society Ltd. Dorabaji Narima Point",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 4",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.923873,
+    "longitude": 72.835907
+  },
+  {
+    "name": "LIC Yogakshema Nariman Point (Private Charger)",
+    "address": "East Wing, Nariman Point, Jeevan Beema Marg",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "CCS-II, AC PLUG POINT",
+    "latitude": 18.923381,
+    "longitude": 72.836044
+  },
+  {
+    "name": "ICON Premises CHS Lower Parel(Private-For resident only)",
+    "address": "CS no 2/142, lower parel division, veer santaji planet mill road",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC Type-2",
+    "latitude": 19.041044,
+    "longitude": 72.840527
+  },
+  {
+    "name": "Autobahn Kia",
+    "address": "P shed, plot RR 1929, unit no. 4 sewri east, mumbai",
+    "Contact": 8527000290,
+    "Charging Slot": "slots - 1",
+    "Port Type": "CCS-II",
+    "latitude": 19.028685,
+    "longitude": 72.824173
+  },
+  {
+    "name": "Muthaliya Residency CHS Kalachowki (Private Charger)",
+    "address": "2/126, Dattaram lad marg, opp hakoba centre, kalachowki",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.026017,
+    "longitude": 72.835938
+  },
+  {
+    "name": "Indiabulls Blu Upper Worli (Private Charger)",
+    "address": "1 Dr E Moses Rd Worli Naka Upper Worli Worli Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 10",
+    "Port Type": "AC TYPE 2",
+    "latitude": 18.964108,
+    "longitude": 72.830835
+  },
+  {
+    "name": "The Reserve By Runwal, Worli",
+    "address": "Opposite C tower, near main gate, dr elijah moses RD, next to four season, upper worli",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 6 ( CCS-2, CHADEMO-2,Type-II-2)",
+    "Port Type": "Bharat AC001, CHAdeMO, AC TYPE 2",
+    "latitude": 18.964178,
+    "longitude": 72.83082
+  },
+  {
+    "name": "Tata Power - Salsette Receiving Station",
+    "address": "Tata Power Salsette Receiving Station, Lake Road",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC TYPE 2, Bharat DC-001",
+    "latitude": 19.023836,
+    "longitude": 72.913986
+  },
+  {
+    "name": "Palladium Mall",
+    "address": "Palladium,462, tulsi pipe Rd",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.04146,
+    "longitude": 72.840698
+  },
+  {
+    "name": "Tata Power - Mahalaxmi Receiving Station",
+    "address": "Tata Power Company Limited, Distribution division, senapati bapat marg",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "Bharat DC001 GB/T",
+    "latitude": 19.041199,
+    "longitude": 72.840626
+  },
+  {
+    "name": "Jagat Satguru Industrial Estate Goregaon East (Private Charger)",
+    "address": "Jagat Satguru Industrial Estate, IITC, hanuman tekdi goregaon east mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.118931,
+    "longitude": 72.848633
+  },
+  {
+    "name": "Vardhaman Heights, Byculla East",
+    "address": "Vardhman heights co-op housing socierty, 758 kadam marg, byculla east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-7",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.026228,
+    "longitude": 72.835083
+  },
+  {
+    "name": "Oberoi Mall",
+    "address": "Western Express hwy, yashodham, goregaon",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 6 ( CCS-2, CHADEMO-2,Type-II-2)",
+    "Port Type": "CCS-II, CHAdeMO, AC TYPE 2",
+    "latitude": 19.118013,
+    "longitude": 72.84761
+  },
+  {
+    "name": "Infinity IT Park Raheja (Private-only restricted use)",
+    "address": "Bldg No. 21 Raheja Infinity Park Near Raheja Heights Off Film City Rd Dindoshi",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.072013,
+    "longitude": 72.855865
+  },
+  {
+    "name": "Raheja Vivarea (Private - For Resident only )",
+    "address": "25A, Sane Guruji Marg, RTO Colony",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.040888,
+    "longitude": 72.839575
+  },
+  {
+    "name": "Serenity Heights Condominium, Malad West",
+    "address": "Chincholi Bunder Rd Malad, rajan pada, mindspace, malad west, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.103088,
+    "longitude": 72.829559
+  },
+  {
+    "name": "Swayam Realtors, Byculla",
+    "address": "Monte South, Khatau mills compound, next to byculla",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.027025,
+    "longitude": 72.836084
+  },
+  {
+    "name": "Beach House Madh Island",
+    "address": "Erangal inspection bunglow Erangal madh island madh, marve Rd, madh, navi mumbai",
+    "Contact": 18008332233,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.079419,
+    "longitude": 72.973602
+  },
+  {
+    "name": "WR Mumbai Central Station, Tardeo",
+    "address": "Beside aden office, north of sykscapper building entrance, tardeo, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II, Bharat DC001 GB/T",
+    "latitude": 19.050475,
+    "longitude": 72.834595
+  },
+  {
+    "name": "Kalpataru Gardens, Kandivali East",
+    "address": "Phase 1, Ashok nagar, kandivali east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-5",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.114667,
+    "longitude": 72.853424
+  },
+  {
+    "name": "Tata Power - Malad Receiving Station",
+    "address": "Tata power malad receiving station",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.103481,
+    "longitude": 72.829956
+  },
+  {
+    "name": "Mineral Engineer CHS, Kandivali East",
+    "address": "ISM House plot 818/A, thakur village, kandivali east, mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.116203,
+    "longitude": 72.851471
+  },
+  {
+    "name": "Darshan Apartments, Malabar Hill",
+    "address": "Malabar Hill, opposite CM Bunglow, mumbai, maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC Type-2",
+    "latitude": 19.006107,
+    "longitude": 72.832121
+  },
+  {
+    "name": "Seawoods Estate CHS, Nerul",
+    "address": "NRI complex phase 2, palm beach road, sector 56, 58, nerul",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 7",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.019616,
+    "longitude": 72.924561
+  },
+  {
+    "name": "Rustomjee Azziano, Thane West",
+    "address": "Rustomjee Azziano, mumbai - nasik highway, near rustomjee international, school majiwade, thane (w)",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.082008,
+    "longitude": 72.968256
+  },
+  {
+    "name": "Everest Fleet Ghatkopar West (Private Charger)",
+    "address": "MCGM Parking The address by Wadhwa Group Lal Bahadur SHahstri Marg Opposite R City Mall Ghatkopar West Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 24",
+    "Port Type": "Bharat AC001",
+    "latitude": 19.075704,
+    "longitude": 72.879852
+  },
+  {
+    "name": "DCSEM Police Chowky New Mandala Anushaktinagar(Private - Charger)",
+    "address": "Nausena Baug Trombay Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.053077,
+    "longitude": 72.87793
+  },
+  {
+    "name": "Hotel Karl Residency Andheri West (Private Charger)",
+    "address": "Lallubhai Park Rd Andheri West Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC Type-2",
+    "latitude": 19.068715,
+    "longitude": 72.833069
+  },
+  {
+    "name": "IOCL BARC Chembur",
+    "address": "Sion - Trombay Rd Telecom Factory Deonar Chembur Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.038171,
+    "longitude": 72.87157
+  },
+  {
+    "name": "Avanti Niketan CHSL Sion (Private Charger)",
+    "address": "Avanti Niketan CHSLAvanti ApartmentFlank road Comrade Harbanslal Marg Sion east Sion Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.029051,
+    "longitude": 72.850616
+  },
+  {
+    "name": "Deepa CHS Vile Parle East (Private Charger)",
+    "address": "M/s Regent Spaces FPI No 48 Malviya Road Vile Parle East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 3",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.069356,
+    "longitude": 72.829163
+  },
+  {
+    "name": "Golden Square CHSL Santacruz East (Private Charger)",
+    "address": "Vigneshwar Mandir GOLDEN SQUARE Sunder Nagar Rd Number 1 Kolivery Village Vidya Nagari Kalina Santacruz East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 6",
+    "Port Type": "AC Type-2, Bharat AC001",
+    "latitude": 19.049035,
+    "longitude": 72.851929
+  },
+  {
+    "name": "Raj Granduer Powai (Private Charger)",
+    "address": "Behind Hiranandani Hospital Ramabai Ambedkar Nagar Powai Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.038647,
+    "longitude": 72.849739
+  },
+  {
+    "name": "Rudra Heights Vile Parle West (Private Charger)",
+    "address": "Plot No. 44C and CTS No. 1285 Sarojini Road and Baptista Road Junction Opp. Ishwarlal Park Vile Parle (West)",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.069293,
+    "longitude": 72.833069
+  },
+  {
+    "name": "Vicinia Chandivali (Private Charger)",
+    "address": "Saki Powai Vihar Rd Chandivali Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-8",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.071587,
+    "longitude": 72.816193
+  },
+  {
+    "name": "Wadala Heights Wadala East (Private Charger)",
+    "address": "Vidyalankar College Rd Wadala East Antop Hill Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 9",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.032837,
+    "longitude": 72.874451
+  },
+  {
+    "name": "Whispering Heights Condominium (Private Charger)",
+    "address": "Mindspace Off Link Road Malad West Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-3",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.084351,
+    "longitude": 72.829163
+  },
+  {
+    "name": "Windsor Grande Residences Andheri West (Private Charger)",
+    "address": "Windsor Grande Residences Condominium Andheri Link Rd Mhada Colony Andheri West Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-13",
+    "Port Type": "Bharat AC001",
+    "latitude": 19.066348,
+    "longitude": 72.833069
+  },
+  {
+    "name": "Tata Power - (Fortune Cars) Charging Station",
+    "address": "Fortune Cars Plot D232 MIDC Industrial Area Shiravane Nerul",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-3",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.01887,
+    "longitude": 72.925109
+  },
+  {
+    "name": "Tata Power - (Puneet Motors) Charging Station",
+    "address": "Puneet, Prabadevi , Lloyds Centre Point, Appasaheb Marathe Marg, Dadar West",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-5",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.025348,
+    "longitude": 72.836993
+  },
+  {
+    "name": "Tata Power - Vikhroli Receiving Station",
+    "address": "Tata Power Vikroli Sub Station Eastern Expressway Vikhroli",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-5",
+    "Port Type": "CCS-II, AC PLUG POINT, Bharat DC001 GB/T, CHAdeMO",
+    "latitude": 19.077817,
+    "longitude": 72.868451
+  },
+  {
+    "name": "Indiabulls Finance Center",
+    "address": "Indiabulls Finance Center 841 Senapati Bapat Pawar Marg BDD Chawl Lower Parel",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-10",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.041199,
+    "longitude": 72.840626
+  },
+  {
+    "name": "Marwah Steel Private LimitedMarwah Centre (Private Charger)",
+    "address": "Marwah Centre Krishanlal Marwah Marg Andheri East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.063239,
+    "longitude": 72.83548
+  },
+  {
+    "name": "SBI Life Insurance Western Express Highway (Private Charger)",
+    "address": "Natraj Western Express Highway Sir Mathuradas Vasanji Rd Junction Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots-10",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.066348,
+    "longitude": 72.833069
+  },
+  {
+    "name": "Taj Santacruz Mumbai",
+    "address": "Taj Santacruz Mumbai Near Chhatrapati Shivaji Maharaj International Airport Domestic Terminal - T1 Off Western Express Highway Santacruz East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II",
+    "latitude": 19.006107,
+    "longitude": 72.835083
+  },
+  {
+    "name": "Lodha One Place World One Lower Parel(Private-Only for residents)",
+    "address": "Senapati Bapat Marg Upper Worli Lower Parel Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 16",
+    "Port Type": "AC TYPE 2",
+    "latitude": 19.050475,
+    "longitude": 72.834595
+  },
+  {
+    "name": "Tata Power - Dharavi Colony Charging Station",
+    "address": "Tata Power Dharavi Colony labour camp dharavi",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 5 ( CCS-2, CHADEMO-2,Bharat DC-2)",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.013596,
+    "longitude": 72.860168
+  },
+  {
+    "name": "Oberoi Realty - Commerz II Goregaon (Private Charger)",
+    "address": "International Business Park Off Western Express Hwy Yashodham Goregaon Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 2",
+    "Port Type": "CCS-II, AC PLUG POINT",
+    "latitude": 19.084351,
+    "longitude": 72.829163
+  },
+  {
+    "name": "Alpha Powai (Private Charger)",
+    "address": "Alpha Main St Hiranandani Gardens Sainath Nagar Powai Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "slots - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.038647,
+    "longitude": 72.849739
+  },
+  {
+    "name": "CABE Parel-Sewri (Private - for Restricted use only)",
+    "address": "Celestia Spaces MCGM Parking Tokershi Jivraj Rd",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 9",
+    "Port Type": "Bharat AC001, Bharat DC001 GB/T",
+    "latitude": 19.059826,
+    "longitude": 72.842712
+  },
+  {
+    "name": "CABE- Parle Square Mall Vile Parle (Private Charger)",
+    "address": "CABE - Parle Square Mall Vile Parle Mongibhai Rd near Chedaa Jewellers Vile Parle Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slots - 12",
+    "Port Type": "Bharat AC001, Bharat DC001 GB/T",
+    "latitude": 19.069293,
+    "longitude": 72.833069
+  },
+  {
+    "name": "CABE The Wadhwa Groups Goregaon East (Private Charger)",
+    "address": "3-B/701 Churi Wadi Near Umiya mata Mandir Mumbai mahanagar palika public parking Goregaon (East) Mumbai Maharashtra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 8",
+    "Port Type": "Bharat AC001, Bharat DC001 GB/T",
+    "latitude": 19.071587,
+    "longitude": 72.816193
+  },
+  {
+    "name": "Olympus CHSL (Private Charger)",
+    "address": "5C Altamount Road,",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.006444,
+    "longitude": 72.834613
+  },
+  {
+    "name": "India Exim Bank",
+    "address": "Floor No. 21, Centre One Building, World Trade Centre, Cuffe Parade.",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.923932,
+    "longitude": 72.836026
+  },
+  {
+    "name": "Nariman Point (Private Charger)",
+    "address": "State Bank Bhavan, Nariman Point, Madame Cama Road,",
+    "Contact": 8527000290,
+    "Charging Slot": "Slot 1",
+    "Port Type": "AC Type-2",
+    "latitude": 18.923873,
+    "longitude": 72.835907
+  },
+  {
+    "name": "Zenith House (Private Charger)",
+    "address": "Keshavrao Khade Marg, Opp Race Course, Mahalaxmi",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.932219,
+    "longitude": 72.82782
+  },
+  {
+    "name": "Voltas Limited, Chinchpokli",
+    "address": "Voltas House B, T.B. Kadam Marg, Chinchpokli",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.959397,
+    "longitude": 72.839172
+  },
+  {
+    "name": "Sindh Work CHSL",
+    "address": "Bhulabhai Desai Marg",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.963239,
+    "longitude": 72.83548
+  },
+  {
+    "name": "Lodha Seamount Walkeshwar (Private - For Resident Only)",
+    "address": "Walkeshwar  Rd.",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC TYPE 2",
+    "latitude": 18.938904,
+    "longitude": 72.837997
+  },
+  {
+    "name": "Celestia Spaces, Sewri West",
+    "address": "Next To Ashok Gardens, Behind P D'Mello Rd, Sewri West",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 10",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.030823,
+    "longitude": 72.845108
+  },
+  {
+    "name": "Dolphin Apartment",
+    "address": "Sadashiv Park, Pilot Bunder Road, Colaba",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 18.92363,
+    "longitude": 72.836792
+  },
+  {
+    "name": "Nine Dimension Housing, Mahim (Private Charger)",
+    "address": "Shanta Durga, Chhatrapati Shivaji Maharaj Marg, New Mogal Lane, Plot No. 343 -346, T.P.S III, Mahim",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.001543,
+    "longitude": 72.834534
+  },
+  {
+    "name": "Taj Lands End",
+    "address": "Bandstand, Bandra West",
+    "Contact": 8527000290,
+    "Charging Slot": "slots - 4",
+    "Port Type": "CCS-II, AC PLUG POINT",
+    "latitude": 19.020707,
+    "longitude": 72.837601
+  },
+  {
+    "name": "Hotel Executive Enclave, Bandra Charging Station",
+    "address": "Plot No.331, Dr. Ambedkar Road, Pali Hill, Bandra",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "CCS-II, CHAdeMO",
+    "latitude": 19.030087,
+    "longitude": 72.838821
+  },
+  {
+    "name": "Lodha Primero, Lower Parel (Private Charger)",
+    "address": "MM Joshi Marg, Apollo Mill Compound,, Lower Parel (East)",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 8",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.041199,
+    "longitude": 72.840626
+  },
+  {
+    "name": "HDFC Bank -Alpha I (Private Charger)",
+    "address": "I Think, Techno Campus,Kanjumarg, East,",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.100891,
+    "longitude": 72.851732
+  },
+  {
+    "name": "HDFC Bank -Alpha I (Private Charger)",
+    "address": "I Think, Techno Campus,Kanjumarg, East,",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC Type-2",
+    "latitude": 19.100891,
+    "longitude": 72.851739
+  },
+  {
+    "name": "Jay Prabhat CHS",
+    "address": "Shankar Nagar, Azad nagar Andheri West",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 8",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.080469,
+    "longitude": 72.842112
+  },
+  {
+    "name": "Arkade Developers, Ville Parle East (Private Charger)",
+    "address": "Arkade Darshan, Opp. Chintamani Jain Deraser Hanuman Road",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 2",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.052119,
+    "longitude": 72.855591
+  },
+  {
+    "name": "Splendor Complex CHS Ltd.",
+    "address": "JVLR Jogeshwari East Mumbai",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 4",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.057628,
+    "longitude": 72.863174
+  },
+  {
+    "name": "MIDC Marol Industries Association, Andheri East (Private Charger)",
+    "address": "Plot No P-15, Street No 14, MIDC, Marol, Andheri East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 8",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.050586,
+    "longitude": 72.842285
+  },
+  {
+    "name": "The Taj Mahal Palace, Colaba Charging Station",
+    "address": "The Taj Mahal Palace, Colaba , Entrance Gate, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+    "Contact": 18008332233,
+    "Charging Slot": "Slot 4",
+    "Port Type": "AC TYPE 2",
+    "latitude": 18.923932,
+    "longitude": 72.836026
+  },
+  {
+    "name": "Shivalaya Chs (Private Charger)",
+    "address": "90 FT. Rd. Kandivali, Thakur Complex, Kandivali East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot 4",
+    "Port Type": "AC Type-2, Bharat AC001",
+    "latitude": 19.109253,
+    "longitude": 72.847839
+  },
+  {
+    "name": "Dahisar Bhushan, Mhatre Wadi (Private Charger)",
+    "address": "101,Mhatre Wadi, Dahisar West",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot  - 2",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.171242,
+    "longitude": 72.832428
+  },
+  {
+    "name": "N.Rose Developers Pvt Ltd Charging Station",
+    "address": "C & D Wing, S.V Road, Dahisar East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.17041,
+    "longitude": 72.831848
+  },
+  {
+    "name": "Rocky Industrial Charging Station",
+    "address": "IB Patel Road, Nr Universal Industrial Estate,Goregaon",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.031998,
+    "longitude": 72.868378
+  },
+  {
+    "name": "Dosti Oak Charging Station",
+    "address": "Bhiwandi - Wada Rd, Kolshet Industrial Area",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot  - 2",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.191406,
+    "longitude": 72.912689
+  },
+  {
+    "name": "Hill Crest CHSL Charging Station",
+    "address": "Raheja Vihar, Off Chandivali Farm Road",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 1",
+    "Port Type": "AC PLUG POINT",
+    "latitude": 19.10959,
+    "longitude": 72.847717
+  },
+  {
+    "name": "Raheja Vistas Charging Station",
+    "address": "Raheja Vistas, Co- Operative Housing Society, Raheja Vishas, Chandivali, Andheri East",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot  - 2",
+    "Port Type": "AC PLUG POINT, Bharat AC001",
+    "latitude": 19.11008,
+    "longitude": 72.847778
+  },
+  {
+    "name": "Godrej One Vikhroli Charging Station",
+    "address": "4 Wheeler Parking area godrej one pirojshanagar, eastern express highway, vikhroli - east",
+    "Contact": 9223581898,
+    "Charging Slot": "Slot - 3",
+    "Port Type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 19.122467,
+    "longitude": 72.872925
+  },
+  {
+    "name": "Mahindra - Electric Charging Station",
+    "address": "Mahindra Car Service Centre, NBS International Ltd, Signal Hill Avenue, Hay Bunder Road, Sewri",
+    "Contact": 8048372548,
+    "Charging Slot": "DC - 2 Slots, GBT (Level 3) - 2 Slots (10 KW)",
+    "Port Type": "GBT",
+    "latitude": 18.961609,
+    "longitude": 72.837341
+  },
+  {
+    "name": "Mahindra - Zalawad Nagar Charging Station",
+    "address": "NBS International Ltd, SV Road & Junction, Zalawad Nagar, Juhu Lane, Yadav Nagar, Andheri West",
+    "Contact": 8527000290,
+    "Charging Slot": "AC - 1 Slots, 3PIN-15AMP Socket (Level 1) - 1 Slots",
+    "Port Type": "AC PLUG POINT, Socket , 3PIN",
+    "latitude": 19.037482,
+    "longitude": 72.837708
+  },
+  {
+    "name": "Mahindra - Car Showroom Charging Station",
+    "address": "NBS International Ltd, Office Building, 10 Chowpatty Sea Face",
+    "Contact": 7290055259,
+    "Charging Slot": "AC - 1 Slots, 3PIN-15AMP Socket (Level 1) - 1 Slots",
+    "Port Type": "AC PLUG POINT, Socket , 3PIN",
+    "latitude": 18.92334,
+    "longitude": 72.836243
+  }
+]

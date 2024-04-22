@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "993284133979",
+    "project_id": "table-for-you-4283a",
+    "storage_bucket": "table-for-you-4283a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993284133979:android:358959130e39472803db7e",
+        "android_client_info": {
+          "package_name": "com.selectricgo.selectricgoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993284133979-5bmthf463pmv3k0scg7gu5477de28ep2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selectricgo.selectricgoapp",
+            "certificate_hash": "642738a90e9b04e80731203f80d30217e6e8b74d"
+          }
+        },
+        {
+          "client_id": "993284133979-v1u8th6rnil04lpa41oj23tigmo46aiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selectricgo.selectricgoapp",
+            "certificate_hash": "5de35d8c0684031be331e5c406268006fe74eaa9"
+          }
+        },
+        {
+          "client_id": "993284133979-4fi8mhj88u4mb4ukh430pjunma71vb2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwlIkUsu1fNAc7K2nSx67euvfMWe4xroQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993284133979-4fi8mhj88u4mb4ukh430pjunma71vb2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993284133979-378jdkdfea99qs6l86kpfgfsobspu79v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.plugins.firebase.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

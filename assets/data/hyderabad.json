@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Electric Vehicle Charging Station",
+    "address": "Hyderguda Road Himayat Nagar  Opposite Old MLA Quarters",
+    "Contacts": 9642841000,
+    "Number of slot": "AC - 1 Slot - IEC 60309 (Level 1)",
+    "Charging port type": "IEC 60309, AC TYPE 1",
+    "latitude": 17.36694,
+    "longitude": 78.475294
+  },
+  {
+    "name": "Powergrid Electric Vehicle Charging Station",
+    "address": "Hyderabad Next Galleria 2 Hitec City",
+    "Contacts": 9711181070,
+    "Number of slot": "Plugs DC - 1 Slot - GBT (Level 3)",
+    "Charging port type": "DC, GBT",
+    "latitude": 17.370872,
+    "longitude": 78.473921
+  },
+  {
+    "name": "Ground and First",
+    "address": "755  Road number 36  Kavuri Hills  Phase 1  Jubilee Hills",
+    "Contacts": 18008332233,
+    "Number of slot": "DC - 1 Slot - GBT (Level 3)",
+    "Charging port type": "Bharat DC-001",
+    "latitude": 17.4678,
+    "longitude": 78.4253
+  },
+  {
+    "name": "Concard Motor Alkarpuri",
+    "address": "Rangareddy",
+    "Contacts": 9932745283,
+    "Number of slot": "DC - 2 Slots - CHAdeMO (Level 3) DC - 2 Slots - CCS2(V1) (Level 3)",
+    "Charging port type": "",
+    "latitude": 17.1883,
+    "longitude": 79.2
+  },
+  {
+    "name": "Sirimalle Square Charging Station",
+    "address": "Sirimalle Square Plot No 8 9  10 Survey No 523/B  Pillar No 160 Attapur  Rajendranagar Mandal",
+    "Contacts": 18008332233,
+    "Number of slot": "DC - 2 Slots - CHAdeMO (Level 3) DC - 2 Slots - CCS2(V1) (Level 3)",
+    "Charging port type": "CCS-2, CHAdeMO",
+    "latitude": 15.4786,
+    "longitude": 78.4831
+  },
+  {
+    "name": "Sagar Ring Road",
+    "address": "Alekhya Tower Opposite  LB Nagar",
+    "Contacts": 7799599923,
+    "Number of slot": "AC - 1 Slot - IEC 60309 (Level 1)",
+    "Charging port type": "IEC 60309, AC TYPE 1",
+    "latitude": 15.8281,
+    "longitude": 78.0373
+  },
+  {
+    "name": "Mahindra - Automotive Manufacturers Pvt Ltd Charging Station",
+    "address": "B- 3, IDA Uppal, District Ranga Reddy, Gaddi annaram, Telangana,  Hyderabad",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.1883,
+    "longitude": 79.2
+  },
+  {
+    "name": "Fortum Electric Vehicle Charging Station",
+    "address": "Indian Oil Petrol Pump NH 44  Ruby Block  Kompally",
+    "Contacts": 8448589218,
+    "Number of slot": "Slot-2",
+    "Charging port type": "DC, GBT",
+    "latitude": 19.0809,
+    "longitude": 79.5603
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "address": "Khushaiguda",
+    "Contacts": 9989740423,
+    "Number of slot": "AC - 1 Slot - 3PIN-15AMP Socket (Level 1)",
+    "Charging port type": "Socket , 3PIN, AC TYPE 1",
+    "latitude": 19.0809,
+    "longitude": 79.5603
+  },
+  {
+    "name": "Madhapur Road Charging Station",
+    "address": "Madhapur Road,Hyderabad,Telangana",
+    "Contacts": 7893670519,
+    "Number of slot": "Slot 1",
+    "Charging port type": "Bharat DC-001",
+    "latitude": 17.44675,
+    "longitude": 78.394896
+  },
+  {
+    "name": "Balaji Nagar Charging Station",
+    "address": "Mumbai Highway Balaji Nagar  Kukatpally",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-2, CHAdeMO, Bharat DC-001",
+    "latitude": 18.6725,
+    "longitude": 78.0941
+  },
+  {
+    "name": "Tanda Charging Station",
+    "address": "Nadigada Tanda  Miyapur",
+    "Contacts": 9490611090,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 18.6725,
+    "longitude": 78.0941
+  },
+  {
+    "name": "Leelanagar Charging Station",
+    "address": "No 7-1-22/A Begumpet Flyover  Leelanagar  Ameerpet",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.4399,
+    "longitude": 78.4983
+  },
+  {
+    "name": "Moosapet Metro Station",
+    "address": "Pragathi Nagar, Moosapet, Hyderabad, Telangana Hyderabad",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.4678,
+    "longitude": 78.4253
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "address": "Rangareddy  Opposite John Deer Tractor Showroom",
+    "Contacts": 9642896000,
+    "Number of slot": "AC - 1 Slot - IEC 60309 (Level 1)",
+    "Charging port type": "",
+    "latitude": 19.0809,
+    "longitude": 79.5603
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "address": "Sagar Ring Road Alekhya Tower Opposite  LB Nagar",
+    "Contacts": 7799599923,
+    "Number of slot": "",
+    "Charging port type": "",
+    "latitude": 17.1883,
+    "longitude": 79.2
+  },
+  {
+    "name": "HMR Stadium Charging Station",
+    "address": "HMR Stadium,Stadium Metro Station",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.9689,
+    "longitude": 79.5941
+  },
+  {
+    "name": "Rto office Uppal Charging Station",
+    "address": "Rto office, Inner ring Rd, Uppal Main Rd, Opp, Uppal, Hyderabad Telengana  Hyderabad",
+    "Contacts": "",
+    "Number of slot": "CCS-II, CHAdeMO, Bharat DC-001",
+    "Charging port type": "",
+    "latitude": 17.343686,
+    "longitude": 78.506668
+  },
+  {
+    "name": "Sarath charging station",
+    "address": "39, Gachibowli - Miyapur Rd, Whitefields, Kondapur",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot-2",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.4574003,
+    "longitude": 78.363674
+  },
+  {
+    "name": "OLA EV Charging Station",
+    "address": "Moosapet P1",
+    "Contacts": 917400490903,
+    "Number of slot": "Plugs AC - 1 Slots Type 2 (Level 2) - 1 Slots Charging Station",
+    "Charging port type": "AC TYPE 2",
+    "latitude": 17.4678,
+    "longitude": 78.4253
+  },
+  {
+    "name": "TML -Venkataramana (S) - Gachibowli",
+    "address": "JK Chambers, Gachibowli, beside TATA Motors",
+    "Contacts": 7567456456,
+    "Number of slot": "Slots-2",
+    "Charging port type": "CCS-II, GB/T",
+    "latitude": 17.44274,
+    "longitude": 78.36302
+  },
+  {
+    "name": "Croma - Jubilee Hills Charging Station",
+    "address": "Croma Building, Plot no.755, Ground & First floor, Rd Number 36, CBI Colony",
+    "Contacts": 6384469052,
+    "Number of slot": "Slot-1",
+    "Charging port type": "GB/T",
+    "latitude": 17.43588,
+    "longitude": 78.40101
+  },
+  {
+    "name": "Tejaswi Motors Charging Station",
+    "address": "Hitech City Main Rd, Siddhi Vinayak Nagar",
+    "Contacts": 8048038729,
+    "Number of slot": "Slot-1",
+    "Charging port type": "GB/T",
+    "latitude": 17.45345,
+    "longitude": 78.38334
+  },
+  {
+    "name": "IOC Gold Strike LLP",
+    "address": "IOC Gold Strike LLP , 6-3-927/C&D, Opp Katriya Hotel Entrance, Raj Bhavan Rd",
+    "Contacts": "",
+    "Number of slot": "GB/T",
+    "Charging port type": "",
+    "latitude": 17.423312,
+    "longitude": 78.458953
+  },
+  {
+    "name": "IOC CoCo Begumpet",
+    "address": "IOC CoCo Begumpet, Begumpet Rd, Old Patigadda",
+    "Contacts": "",
+    "Number of slot": "GB/T",
+    "Charging port type": "",
+    "latitude": 17.444838,
+    "longitude": 78.466949
+  },
+  {
+    "name": "AMPL Uppal",
+    "address": "AMPL Uppal - B-3, IDA Uppal, District Ranga Reddy, IDA Uppal",
+    "Contacts": 7989353477,
+    "Number of slot": "FORTUM",
+    "Charging port type": "GB/T",
+    "latitude": 17.399031,
+    "longitude": 78.554874
+  },
+  {
+    "name": "Mahindra - Automotive Manufactures Pvt. Ltd. Charging Station",
+    "address": "Mahindra Automotive Manufactures Pvt. Ltd. Attapur, Mehdipatnam Ring Road, Jyothi Nagar, Maruthi Nagar, Langar Houz. Telangana, 500028 Hyderabad",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.382023,
+    "longitude": 78.428888
+  },
+  {
+    "name": "AMPL Jubilee Hills",
+    "address": "AMPL Jubilee HillsPlot no 1285/A, Road No.64, Near Jubilee Hills Check Post",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.425592,
+    "longitude": 78.41445
+  },
+  {
+    "name": "HMR Begumpet Station",
+    "address": "HMR Begumpet Station, 7-1-22/A, Begumpet Flyover, Leelanaga",
+    "Contacts": "",
+    "Number of slot": "GB/T",
+    "Charging port type": "",
+    "latitude": 17.436905,
+    "longitude": 78.457036
+  },
+  {
+    "name": "HMR Stadium Station",
+    "address": "HMR Stadium Station,18-54/11, Inner Ring Rd",
+    "Contacts": "",
+    "Number of slot": "GB/T",
+    "Charging port type": "",
+    "latitude": 17.40808,
+    "longitude": 78.553847
+  },
+  {
+    "name": "IOC Champapet Charging Station",
+    "address": "IOC Champapet, Champapet Rd, Raji Reddy Nagar",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.349007,
+    "longitude": 78.513965
+  },
+  {
+    "name": "IOC Moula Ali Charging Station",
+    "address": "IOC Moula Ali, 42-720, MJ Colony, Moula Ali",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.466184,
+    "longitude": 78.562422
+  },
+  {
+    "name": "Vasant Vihar Habsiguda Charging Station",
+    "address": "HMR NGRI, Near NGRI, Habsiguda Main Rd, Vasant Vihar",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.414084,
+    "longitude": 78.547335
+  },
+  {
+    "name": "IOC Goshamahal",
+    "address": "IOC Goshamahal,10-C, Malakunta Road, Near Police Stadium, Chandhanwadi Colony, Goshamahal",
+    "Contacts": 4024601404,
+    "Number of slot": "FORTUM",
+    "Charging port type": "GB/T",
+    "latitude": 17.377715,
+    "longitude": 78.471147
+  },
+  {
+    "name": "HMR Madhapur Charging Station",
+    "address": "Plot no 735 Rd no 37&38 Left lane after Chroma.CBI colony jubli Hills.",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.435959,
+    "longitude": 78.400015
+  },
+  {
+    "name": "MG - Baniara Hills Charging station",
+    "address": "MG Motor Showroom, Road No 12, Opposite Traffic Police Station, Baniara Hills",
+    "Contacts": 9513130755,
+    "Number of slot": "DC - 2 Slots, CHAdeMO (Level 3) - 1 Slots (50 KW), CCS2(V2) (Level 3) - 1 Slots (50 KW)",
+    "Charging port type": "DC, CCS-II, CHAdeMO",
+    "latitude": 17.411811,
+    "longitude": 78.434376
+  },
+  {
+    "name": "IOC Hi-Tech City Siddhivinayak Nagar",
+    "address": "IOC Hi-Tech City Siddhivinayak Nagar, KPHB-HitechCity Road, Madhapur",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "GB/T",
+    "latitude": 17.459298,
+    "longitude": 78.385208
+  },
+  {
+    "name": "Narsimha Puri Charging Station",
+    "address": "8-116, NH 65, Narsimha Puri Colony, Huda Colony, Saroornagar, Telangana  Hyderabad",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.361751,
+    "longitude": 78.544145
+  },
+  {
+    "name": "HMR Moosarambagh Charging Station",
+    "address": "HMR Moosarambagh, 16-2-689/3, NH 65, Palton, Dayanand Nagar, New Malakpet",
+    "Contacts": 9650992422,
+    "Number of slot": "Slot - 5 (Bharat DC-001-1, CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.371395,
+    "longitude": 78.511128
+  },
+  {
+    "name": "Victory Plaza Charging Station",
+    "address": "Plot No 11, Victory Plaza, ECIL X Roads, Hyderabad",
+    "Contacts": 18008332233,
+    "Number of slot": "Slots - 5 ( CCS-2, CHADEMO-2,Bharat DC-1)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.480971,
+    "longitude": 78.577261
+  },
+  {
+    "name": "Kukatpally Charging Station",
+    "address": "B-51, APIIC Rd, IDA Kukatpally, Sanath Nagar, Hyderabad, Telangana 500018",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.45603,
+    "longitude": 78.446593
+  },
+  {
+    "name": "Sarath City Capital Mall Charging Station",
+    "address": "Sarath City Capital Mall, Whitefields, Gachibowli-Miyapur Road,",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.457906,
+    "longitude": 78.36405
+  },
+  {
+    "name": "Kmc Retail Mall Charging Station",
+    "address": "PLOT NO.6-3, Kmc Retail Mall, CIRCLE, 1112, near KIRTILAL JEWELLERS, Somajiguda, Hyderabad",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.422688,
+    "longitude": 78.46137
+  },
+  {
+    "name": "Ratna Arcade Charging Station",
+    "address": "Ratna Arcade, Ground Floor Survey No. 128 National Highway 44, Beside, Sree Vensai Towers, Ruby Block, Kompally, Secunderabad",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.531979,
+    "longitude": 78.485718
+  },
+  {
+    "name": "D.V.Cascade Charging Station",
+    "address": "Ground Floor,D.V.Cascade,Plot 59A Saroornagar Village,L.B.Nagar",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.352592,
+    "longitude": 78.546681
+  },
+  {
+    "name": "Croma, L.B. Nagar",
+    "address": "Croma, Ground Floor, D.V. Cascade, Plot 59A, 59B, 59C, 59D In Survey 9/9, Saroomangar Village",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "AC TYPE 2",
+    "latitude": 17.352768,
+    "longitude": 78.54662
+  },
+  {
+    "name": "ALKAPURI X ROADS Charging Stations",
+    "address": "ALKAPURI X ROADS, Nagole, Hyderabad, Telangana",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.36491,
+    "longitude": 78.557231
+  },
+  {
+    "name": "Tata Power - Fairfield by Marriott Charging Station",
+    "address": "Road No. 2, Financial District, Gachibowli, Hyderabad, Telangana",
+    "Contacts": 8527000290,
+    "Number of slot": "Slot - 6",
+    "Charging port type": "CCS-II, CHAdeMO, AC TYPE 2",
+    "latitude": 17.423857,
+    "longitude": 78.347725
+  },
+  {
+    "name": "Croma Ramanthapur Charging Station",
+    "address": "Croma, Unit No. 2 & 3, Ground Floor, Plot Survey No. 46, Pragathi Nagar, Ramanthapur Main Road",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.400343,
+    "longitude": 78.54196
+  },
+  {
+    "name": "TSG Heights Commerical Complex",
+    "address": "120/45, TSG Heights Rd No. 2 Banjara Hills",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "AC TYPE 2",
+    "latitude": 17.44477,
+    "longitude": 78.444927
+  },
+  {
+    "name": "Hotel The Park, Rajbhavan Road",
+    "address": "22, Rajbhavan Road",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "AC TYPE 2",
+    "latitude": 17.423267,
+    "longitude": 78.462265
+  },
+  {
+    "name": "Daspalla Hotels",
+    "address": "Daspalla Hotels – (Jublee Hill Resorts Pvt Ltd)- Rd Number 37, CBI Colony, Jubilee Hills, Hyderabad,",
+    "Contacts": 18008332233,
+    "Number of slot": "Slot 4 (CHAdeMO - 2, CCS-II - 2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.436775,
+    "longitude": 78.398143
+  },
+  {
+    "name": "KMC Mall, Somajiguda",
+    "address": "KMC Mall",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "",
+    "latitude": 17.4299623,
+    "longitude": 78.454306
+  },
+  {
+    "name": "Tejaswi Motors Charging Station",
+    "address": "Plot No. 4/14, Opp. Cyber Towers, KPHB Road, Madhapur, Hyderabad,",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot - 5 (Bharat DC-1,CCS-II-2,CHAdeMO-2)",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.453441,
+    "longitude": 78.383196
+  },
+  {
+    "name": "Orange Auto",
+    "address": "165 Beside gokul Theatre, Erragadda Hyderabad",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "AC TYPE 2",
+    "latitude": 17.453641,
+    "longitude": 78.434612
+  },
+  {
+    "name": "Orange Auto",
+    "address": "16ABC, MIni Industrial Estate, Hafeezpet",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot - 5 (Bharat DC-1,CCS-II-2,CHAdeMO-2)",
+    "Charging port type": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 17.489956,
+    "longitude": 78.354877
+  },
+  {
+    "name": "Kona Vijay Shankar",
+    "address": "Survey No. 227/1, Bahadupalle Village, Quthbullapur, Mandal, Medchal, Malkajgiri",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "AC TYPE 2",
+    "latitude": 17.561309,
+    "longitude": 78.430464
+  },
+  {
+    "name": "MG - Jayalakshmi Auto Enterprises Gudavalli Charging Station",
+    "address": "Jayalakshmi Auto Enterprises Pvt Ltd",
+    "Contacts": 9246419559,
+    "Number of slot": "Slot 2",
+    "Charging port type": "CCS-II, CHAdeMO",
+    "latitude": 17.407284,
+    "longitude": 78.490282
+  },
+  {
+    "name": "TML Sree Venkateswara",
+    "address": "Mallikarjuna Complex, Opp. KVPG Collage, Divyanagar, Manchiryal Road, Nirmal",
+    "Contacts": 8527000290,
+    "Number of slot": "Slot 1",
+    "Charging port type": "CCS-II",
+    "latitude": 17.413378,
+    "longitude": 78.630631
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Mahindra - Koncept Automobiles Pvt Ltd Charging Station",
+    "address": "Unit 16-16A Bestech Business Tower  Sohna Road  Sector 48  Tatvam Villas  Dhani",
+    "Contact": 8588868813,
+    "Slots present": "AC - 1 Slot - 3PIN-15AMP Socket (Level 1)",
+    "Type of socket": "Socket , 3PIN",
+    "latitude": 28.493447,
+    "longitude": 77.018228
+  },
+  {
+    "name": "Indian - Oil Charging Station",
+    "address": "Near KMP Expressway  Binola  Manesar nh48",
+    "Contact": 9810624375,
+    "Slots present": "DC - 1 Slot - GBT (Level 3)",
+    "Type of socket": "GBT",
+    "latitude": 28.446077,
+    "longitude": 77.06952
+  },
+  {
+    "name": "ARDEE MALL Gurgaon Charging Station",
+    "address": "Ardee City Road Sector 52",
+    "Contact": 8527000290,
+    "Slots present": "slots - 5",
+    "Type of socket": "CCS-II, AC PLUG POINT, CHAdeMO",
+    "latitude": 28.493793,
+    "longitude": 77.018226
+  },
+  {
+    "name": "ANR EV Charging Station",
+    "address": "ANR EV , Sec 52 Wazirabad , Khasra No.1598, Opposite Tau Devilal Biodiversity Park, Gatta Road, Wazirabad, Sector 52, Gurugram",
+    "Contact": 18008332233,
+    "Slots present": "Slots - 1",
+    "Type of socket": "Bharat DC-001",
+    "latitude": 28.493915,
+    "longitude": 77.018337
+  },
+  {
+    "name": "24 seven filling station",
+    "address": "Nirvana Country Spr Golf Course Ext. Road Badshahpur",
+    "Contact": 7419894714,
+    "Slots present": "Slots - 2",
+    "Type of socket": "CCS-II, Bharat DC-001",
+    "latitude": 28.462664,
+    "longitude": 77.070306
+  },
+  {
+    "name": "Hindustan Petroleum Petrol Charging Station",
+    "address": "HP Auto Care Center Plot No. 10 Sector 3 IMT Manesar - 122051",
+    "Contact": 7419894253,
+    "Slots present": "Slot - 2",
+    "Type of socket": "Bharat DC-001",
+    "latitude": 28.445945,
+    "longitude": 77.069612
+  },
+  {
+    "name": "AIRIA MALL Sohna Road Gurgaon Charging Station",
+    "address": "Sec 68 Sohna Road",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 13",
+    "Type of socket": "CCS-II, AC PLUG POINT, Bharat AC001, CHAdeMO",
+    "latitude": 28.497549,
+    "longitude": 77.016992
+  },
+  {
+    "name": "DLF The Crest (Private - For residents only)",
+    "address": "DLF Phase 5 Sector 43 Gurugram",
+    "Contact": 18008332233,
+    "Slots present": "Slots - 14",
+    "Type of socket": "CCS-II, AC TYPE 2",
+    "latitude": 28.496754,
+    "longitude": 77.017542
+  },
+  {
+    "name": "DLF The Camellias Charging Station",
+    "address": "DLF - The Camellias, Golf Course Road , The Camellias, Golf Course Road",
+    "Contact": 18008332233,
+    "Slots present": "slots - 18",
+    "Type of socket": "AC TYPE 2",
+    "latitude": 28.49452,
+    "longitude": 77.018331
+  },
+  {
+    "name": "Vatika Market Place I Charging Station",
+    "address": "Sector 84",
+    "Contact": 18008332233,
+    "Slots present": "Slot - 4",
+    "Type of socket": "CCS-II, AC TYPE 2",
+    "latitude": 28.484226,
+    "longitude": 77.039816
+  },
+  {
+    "name": "MG - Gurgaon Flagship Showroom Charging Station",
+    "address": "Gurgaon Flagship Showroom, 32 Milestone, Experion Centre, Sector 15, NH-8",
+    "Contact": 9711358888,
+    "Slots present": "DC - 2 Slots, CCS2(V1) (Level 3) - 1 Slots (50 KW), CHAdeMO (Level 3) - 1 Slots (50 KW)",
+    "Type of socket": "CCS-II, CHAdeMO, DC",
+    "latitude": 28.492157,
+    "longitude": 77.020195
+  },
+  {
+    "name": "Vatika City Point Sec 25",
+    "address": "Mehrauli-Gurgaon Rd Heritage City Sector 25 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slots - 6 ( CCS-2,TYPE- 4,)",
+    "Type of socket": "CCS-II, AC PLUG POINT, Bharat AC001",
+    "latitude": 28.492658,
+    "longitude": 77.019279
+  },
+  {
+    "name": "Diplomatic Greens Dwarka Express Way (Private Charger)",
+    "address": "Diplomatic greens Sector - 110 D  Dwarka Express Way  Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 2",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.50854,
+    "longitude": 77.04541
+  },
+  {
+    "name": "Vatika First India Place Sec 28 (Private Charger)",
+    "address": "Mehrauli-Gurgaon Rd Maruti Housing Colony Sector 28 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 6",
+    "Type of socket": "AC PLUG POINT, Bharat AC001",
+    "latitude": 28.491898,
+    "longitude": 77.019501
+  },
+  {
+    "name": "Vatika Triangle Sushant Lok Phase I (Private Charger)",
+    "address": "IInd Floor Mehrauli-Gurgaon Rd Block B Sushant Lok Phase I Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 6",
+    "Type of socket": "AC PLUG POINT, Bharat AC001",
+    "latitude": 28.49327,
+    "longitude": 77.020103
+  },
+  {
+    "name": "GMDA Sec 27 Charging Station",
+    "address": "114 Golf Course Rd near Global Foyer Sector 27 Gurugram",
+    "Contact": 18008332233,
+    "Slots present": "Slots - 6",
+    "Type of socket": "Bharat AC001",
+    "latitude": 28.495886,
+    "longitude": 77.017972
+  },
+  {
+    "name": "KIA Dhingra Motors",
+    "address": "idc mehrauli road",
+    "Contact": 8527000290,
+    "Slots present": "slots - 1",
+    "Type of socket": "CCS-II",
+    "latitude": 28.49278,
+    "longitude": 77.018585
+  },
+  {
+    "name": "The Palms Apartment Sec 41 (Private Charger)",
+    "address": "The Palms South City 1 Sector 41 Gurgaon",
+    "Contact": 8527000290,
+    "Slots present": "slots - 5",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.488874,
+    "longitude": 77.020752
+  },
+  {
+    "name": "Vatika Atrium Sector 53 (Private Charger)",
+    "address": "Golf Course Rd Parsvnath Exotica Block A Sector 53 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 4",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.494612,
+    "longitude": 77.018381
+  },
+  {
+    "name": "Friends Infotech Sec 44",
+    "address": "Sector 68",
+    "Contact": 8527000290,
+    "Slots present": "slots - 4",
+    "Type of socket": "CCS-II, AC PLUG POINT",
+    "latitude": 28.497549,
+    "longitude": 77.016992
+  },
+  {
+    "name": "Centrum Plaza Sec 53 (Private Charger)",
+    "address": "Golf Course Rd near IILM Institute IILM Institute Sector 53 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 4",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.49435,
+    "longitude": 77.018335
+  },
+  {
+    "name": "Emerald Bay Dwarka Express way (Private Charger)",
+    "address": "Emerald Bay Sector -104  Dwarka Express way  Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 3",
+    "Type of socket": "CCS-II, AC PLUG POINT",
+    "latitude": 28.506757,
+    "longitude": 77.043671
+  },
+  {
+    "name": "IREO The Grand Arch Sec 58 (Private Charger)",
+    "address": "Golf Course Road Extension Archview Dr Sector 58 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 3",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.496791,
+    "longitude": 77.017725
+  },
+  {
+    "name": "Hotel AHR Bell House",
+    "address": "Plot no.812 Near Medanta Medicity Sector 47 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 2",
+    "Type of socket": "CCS-II, AC PLUG POINT",
+    "latitude": 28.479244,
+    "longitude": 77.022766
+  },
+  {
+    "name": "TML GNG Auto Charging Station",
+    "address": "Khasra No: 604-605 Khandsa Road Sec 10 A  OPP HDFC Bank",
+    "Contact": 8527000290,
+    "Slots present": "slots - 1",
+    "Type of socket": "Bharat DC001 GB/T",
+    "latitude": 28.491831,
+    "longitude": 77.019272
+  },
+  {
+    "name": "Tata Power - Zedex Sec 48 Charging Station",
+    "address": "GF-26 NIHO Scottish Mall Sector 48 P.S. - Badshahpur",
+    "Contact": 8527000290,
+    "Slots present": "slots - 1",
+    "Type of socket": "CCS-II",
+    "latitude": 28.496754,
+    "longitude": 77.017542
+  },
+  {
+    "name": "Vatika Professional Point Sector 66 (Private Charger)",
+    "address": "Golf Course Ext Rd Badshahpur Sector 66 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 3",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.462457,
+    "longitude": 77.070306
+  },
+  {
+    "name": "Vatika Independent Floors & Plots- STP Sector 83",
+    "address": "New Gurgaon North Gurgaon 21 Rd Sector 83 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot-1",
+    "Type of socket": "Bharat AC001",
+    "latitude": 28.484696,
+    "longitude": 77.039728
+  },
+  {
+    "name": "Vatika G21 Sector 83 (Private Charger)",
+    "address": "New Gurgaon North Gurgaon 21 Rd Sector 83 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 3",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.485595,
+    "longitude": 77.039551
+  },
+  {
+    "name": "Vatika Lifestyle homes Sector 83 (Private Charger)",
+    "address": "Vatika Lifestyle Homes Rd Sector 83 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 7",
+    "Type of socket": "AC PLUG POINT, Bharat AC001",
+    "latitude": 28.485054,
+    "longitude": 77.039609
+  },
+  {
+    "name": "Vatika City Center Sector 82 (Private Charger)",
+    "address": "Sector 82",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 4",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.485397,
+    "longitude": 77.039648
+  },
+  {
+    "name": "Vatika Town Square l",
+    "address": "24 & 25 Sector 83 Vatika India Next",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 2",
+    "Type of socket": "CCS-II, AC PLUG POINT",
+    "latitude": 28.485397,
+    "longitude": 77.039648
+  },
+  {
+    "name": "Vatika Town Square ll Charging Station",
+    "address": "Sector 83 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 1",
+    "Type of socket": "CCS-II",
+    "latitude": 28.48526,
+    "longitude": 77.039429
+  },
+  {
+    "name": "Vatika Seven lamps Sector 82 (Private Charger)",
+    "address": "Vatika India NXT Lamps Ave Sector 82 Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 7",
+    "Type of socket": "AC PLUG POINT, Bharat AC001",
+    "latitude": 28.445622,
+    "longitude": 77.069214
+  },
+  {
+    "name": "Bikanerwala Charging Station",
+    "address": "Bikanerwala, NH 48 Panchgaon 55th Mile Stone, NH 48, Kukrola, Panchgaon, Gurugram",
+    "Contact": 9223581898,
+    "Slots present": "Slots - 5 ( CCS-2, CHADEMO-2,Bharat DC-1)",
+    "Type of socket": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 28.494345,
+    "longitude": 77.01832
+  },
+  {
+    "name": "Vatika Towers Sector 54 (Private Charger)",
+    "address": "Golf Course Rd Suncity Sector 54 Gurugram Haryana",
+    "Contact": 8527000290,
+    "Slots present": "slots - 7",
+    "Type of socket": "AC PLUG POINT, Bharat AC001",
+    "latitude": 28.495407,
+    "longitude": 77.018292
+  },
+  {
+    "name": "Airtel Center, Udyog Vihar Phase-IV (Private Charger)",
+    "address": "Plot No. 16 Udyog Vihar Phase IV, Gurgaon",
+    "Contact": 8527000290,
+    "Slots present": "Slot 3",
+    "Type of socket": "CCS-II, AC PLUG POINT",
+    "latitude": 28.494299,
+    "longitude": 77.018336
+  },
+  {
+    "name": "Summit Condominium Association, DLF City (Private Charger)",
+    "address": "The Summit, DLF City, Phase-V",
+    "Contact": 8527000290,
+    "Slots present": "Slot 3",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.482162,
+    "longitude": 77.020752
+  },
+  {
+    "name": "Dhoot Time Residency, Sec-63 (Private charger)",
+    "address": "Time Residency,Sec-63 gurugram",
+    "Contact": 8527000290,
+    "Slots present": "slots - 3",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.48193,
+    "longitude": 77.020752
+  },
+  {
+    "name": "IREO Victory Valley Tower B (Private Charger)",
+    "address": "Sector 67, Gurugram",
+    "Contact": 8527000290,
+    "Slots present": "Slot - 2",
+    "Type of socket": "AC PLUG POINT",
+    "latitude": 28.492539,
+    "longitude": 77.018585
+  },
+  {
+    "name": "Audi Gurugram, Trillium Avenue Charging Station",
+    "address": "Audi Gurugram, Trillium Avenue, Plot No MLP1, S City Rd, Sector 29, Gurugram",
+    "Contact": 7087575757,
+    "Slots present": "AC - 1 Slots, Type 2 (Level 2) - 1 Slots, DC - 1 Slots, Type 2 (Level 2) - 1 Slots",
+    "Type of socket": "AC TYPE 2",
+    "latitude": 28.496853,
+    "longitude": 77.017725
+  },
+  {
+    "name": "MG - Motors Workshop Charging Station",
+    "address": "MG Motors Workshop, NH-8, Sector 74 A, Gurugram",
+    "Contact": 8860527222,
+    "Slots present": "AC - 1 Slots, Type 2 (Level 2) - 1 Slots",
+    "Type of socket": "AC PLUG POINT, AC TYPE 2",
+    "latitude": 28.494373,
+    "longitude": 77.018331
+  }
+]

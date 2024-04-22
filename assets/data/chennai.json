@@ -1,0 +1,302 @@
+[
+  {
+    "name": "EESL -  Electric Vehicle Charging Station",
+    "address": "Opposite to Kuralagam  Parrys High Court Metro Station",
+    "Contact": 9500785822,
+    "Number of slot": "DC - 1 Slot - GBT (Level 3",
+    "Type of slot": "GBT",
+    "latitude": 12.970216,
+    "longitude": 80.252946,
+    "": ""
+  },
+  {
+    "name": "Zulaikha Motors Charging Station",
+    "address": "10/8  3rd Main Road  Below Telephone Exchange Bridge  Sai Nagar  Ambattur Industrial Estate",
+    "Contact": 9742211172,
+    "Number of slot": "AC - 6 Slots - 3PIN-15AMP Socket (Level 1)",
+    "Type of slot": "CCS-II, CHAdeMO, Socket , 3PIN",
+    "latitude": 13.2544,
+    "longitude": 80.0088,
+    "": ""
+  },
+  {
+    "name": "Diselecti Automotive Pvt Ltd",
+    "address": "60/2  61/2  East Coast Road  Chettiyar Agaram",
+    "Contact": 9884866993,
+    "Number of slot": "AC - 1 Slot - Type 2 (Level 2)",
+    "Type of slot": "AC TYPE 2",
+    "latitude": 13.2544,
+    "longitude": 80.0088,
+    "": ""
+  },
+  {
+    "name": "FPL - Vehicles Charging Station",
+    "address": "No. 824 annasali nandnam charging station",
+    "Contact": 18008332233,
+    "Number of slot": "Slots - 4",
+    "Type of slot": "CCS-II",
+    "latitude": 13.0481744,
+    "longitude": 80.2496475,
+    "": ""
+  },
+  {
+    "name": "Sait - Colony Charging Station",
+    "address": "26,Sait Colony 1st Street, Egmore",
+    "Contact": 9789514174,
+    "Number of slot": "Slots - 1",
+    "Type of slot": "Bharat DC-001",
+    "latitude": 13.079061,
+    "longitude": 80.261084,
+    "": ""
+  },
+  {
+    "name": "Ginger - Hotel Vadapalani",
+    "address": "61 Inner Ring Rd Thiru Nagar Colony NGO Colony",
+    "Contact": 9742211172,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-II, CHAdeMO",
+    "latitude": 13.073999,
+    "longitude": 80.19392,
+    "": ""
+  },
+  {
+    "name": "Tata Power - (gurudev) Charging Station",
+    "address": "Old No. 90, New No. 1090, E.V.R. Periyar High Road",
+    "Contact": 9742211172,
+    "Number of slot": "Slot 2",
+    "Type of slot": "CCS-II, CHAdeMO",
+    "latitude": 13.118285,
+    "longitude": 80.25452,
+    "": ""
+  },
+  {
+    "name": "Fairfield - By Marriott Charging station",
+    "address": "Central Ave, Mahendra Word City, Maraimala Nagar, Cheeni",
+    "Contact": 8527000290,
+    "Number of slot": "Slot - 3",
+    "Type of slot": "CCS-II, AC PLUG POINT, CHAdeMO",
+    "latitude": 12.957212,
+    "longitude": 80.22376,
+    "": ""
+  },
+  {
+    "name": "Pumpkin - Tales Hotel Charging Station",
+    "address": "37,20, Bheemanna garden St, Alwarpet, Chennai",
+    "Contact": 18008332233,
+    "Number of slot": "Slots - 4",
+    "Type of slot": "CCS-II, CHAdeMO",
+    "latitude": 13.033655,
+    "longitude": 80.255285,
+    "": ""
+  },
+  {
+    "name": "Fairfield - by Marriott Charging Station",
+    "address": "Near Main Entrance, Mahindra World City",
+    "Contact": 18008332233,
+    "Number of slot": "Slot 6",
+    "Type of slot": "CCS-II, CHAdeMO, AC TYPE 2",
+    "latitude": 12.730601,
+    "longitude": 80.004612,
+    "": ""
+  },
+  {
+    "name": "Four Points by Sheraton Charging Station",
+    "address": "Survey No 169, Plot 1B and 1A, Rajiv Gandhi Salai, Kumaran Nagar, Sholinganallur, Chennai",
+    "Contact": 18008332233,
+    "Number of slot": "Slot 6",
+    "Type of slot": "CCS-2, CHAdeMO, Type 2",
+    "latitude": 12.875508,
+    "longitude": 80.227371,
+    "": ""
+  },
+  {
+    "name": "MEENAMBAKKAM Charging Station",
+    "address": "Great Southern Trunk Road, National Airports Authority Colony, Meenambakkam",
+    "Contact": 9841824572,
+    "Number of slot": "Slot 1",
+    "Type of slot": "CCS-II",
+    "latitude": 12.92278,
+    "longitude": 80.115574,
+    "": ""
+  },
+  {
+    "name": "EESL Chennai Egmore metro Charging Station",
+    "address": "Chennai Egmore metro car parking, Egmore",
+    "Contact": 7906001402,
+    "Number of slot": "Slot 7",
+    "Type of slot": "CCS-II, CHAdeMO, AC TYPE 2, Bharat DC-001",
+    "latitude": 13.079097,
+    "longitude": 80.261538,
+    "": ""
+  },
+  {
+    "name": "EESL - Anna Nagar East Station",
+    "address": "Anna Nagar east metro car parking area,(near bus stop), Anna Nagar,",
+    "Contact": 18001803580,
+    "Number of slot": "Slot 4",
+    "Type of slot": "Bharat AC001",
+    "latitude": 13.084713,
+    "longitude": 80.219897,
+    "": ""
+  },
+  {
+    "name": "EESL - Koyambedu Charging Station",
+    "address": "Koyambedu metro station car parking area, Koyambedu",
+    "Contact": 18008332233,
+    "Number of slot": "Slot 4",
+    "Type of slot": "CCS-II",
+    "latitude": 13.074043,
+    "longitude": 80.195354,
+    "": ""
+  },
+  {
+    "name": "TML Sree Gokulam Motors Kattuppakkam Charging Station",
+    "address": "no 2/232 Mount ponamalle roadSwaminatha nagar Pushpa Nagar Kattupakkam",
+    "Contact": 18008332233,
+    "Number of slot": "slots - 2",
+    "Type of slot": "CCS-II",
+    "latitude": 13.0416728,
+    "longitude": 80.125524,
+    "": ""
+  },
+  {
+    "name": "TML Sree Gokulam Motors Charging Station",
+    "address": "No.93,3C,200 Feet Redial Road, Zamin Pallavaram",
+    "Contact": 18008332233,
+    "Number of slot": "Slot 4",
+    "Type of slot": "CCS-II, CHAdeMO",
+    "latitude": 12.948676,
+    "longitude": 80.193021,
+    "": ""
+  },
+  {
+    "name": "Tata Power - (Lakshmi Motors) Charging Station",
+    "address": "79 80 81 NEAR WAVIN BUS STOP Ambattur Industrial Estate",
+    "Contact": 9742211172,
+    "Number of slot": "slots - 3",
+    "Type of slot": "CCS-II, Bharat DC001 GB/T, CHAdeMO",
+    "latitude": 13.0765,
+    "longitude": 80.237264,
+    "": ""
+  },
+  {
+    "name": "Taj Vivanta Chennai(Private Charging)",
+    "address": "Expressway Chennai Taj Connemara, Binny Road",
+    "Contact": 9742211172,
+    "Number of slot": "Slot 2",
+    "Type of slot": "AC PLUG POINT",
+    "latitude": 13.063038,
+    "longitude": 80.261725,
+    "": ""
+  },
+  {
+    "name": "Thalappakatti Hotels, OMR",
+    "address": "Plot. 18 Old Mahabalipuram Rd, Nehru Rd, Nehru, Nagar, sri Soweswari Nagar",
+    "Contact": 9742211172,
+    "Number of slot": "Slot - 4",
+    "Type of slot": "CCS-II, Bharat AC001",
+    "latitude": 12.925779,
+    "longitude": 80.230527,
+    "": ""
+  },
+  {
+    "name": "MG - Motors (FPL Vehicles)",
+    "address": "no. 824/2, Anna Salai",
+    "Contact": 9742211172,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-II",
+    "latitude": 13.06703,
+    "longitude": 80.272009,
+    "": ""
+  },
+  {
+    "name": "Taj Coromandel Chennai",
+    "address": "No 37 Mg Road Nungambakkam Chennai",
+    "Contact": 9223581898,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-II",
+    "latitude": 13.0582493,
+    "longitude": 80.247392,
+    "": ""
+  },
+  {
+    "name": "The Park, Anna Salai",
+    "address": "601, Anna Salai",
+    "Contact": 9246419559,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-II, AC PLUG POINT",
+    "latitude": 13.05274,
+    "longitude": 80.250015,
+    "": ""
+  },
+  {
+    "name": "Taj Club House Chennai",
+    "address": "The Indian Hotels Company Limited 2, Club House Road, Chennai, Tamil Nadu",
+    "Contact": 8527000290,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-2",
+    "latitude": 13.0615371,
+    "longitude": 80.261825,
+    "": ""
+  },
+  {
+    "name": "Taj Connemara",
+    "address": "Biny Road, Anna Salai",
+    "Contact": 8527000290,
+    "Number of slot": "Slots-4",
+    "Type of slot": "CCS-II, AC PLUG POINT",
+    "latitude": 13.06208,
+    "longitude": 80.26291,
+    "": ""
+  },
+  {
+    "name": "Tata Power - (Lakshmi Motors) Charging Station",
+    "address": "No 42 Velachery Main Rd Guindy National Park",
+    "Contact": 9742211172,
+    "Number of slot": "Slots-2",
+    "Type of slot": "CCS-II, CHAdeMO",
+    "latitude": 13.00799,
+    "longitude": 80.22155,
+    "": ""
+  },
+  {
+    "name": "Tata Power - Lakshmi Motors",
+    "address": "118, Okkiam, Thoraipakkam",
+    "Contact": 18008332233,
+    "Number of slot": "Slots - 4",
+    "Type of slot": "CCS-II, CHAdeMO",
+    "latitude": 12.93015,
+    "longitude": 80.23173,
+    "": ""
+  },
+  {
+    "name": "Taj Fisherman's Cove Resort & Spa, Chengalpattu",
+    "address": "Covelong Beach, Chengalpattu, Tamil Nadu",
+    "Contact": 8527000290,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-II",
+    "latitude": 12.78799,
+    "longitude": 80.25465,
+    "": ""
+  },
+  {
+    "name": "Tanishq Gopalapuram Charging Station",
+    "address": "No.100, Cathedral Rd, Gopalapuram, Chennai, Tamil Nadu",
+    "Contact": 9742211172,
+    "Number of slot": "slots - 5",
+    "Type of slot": "CCS-II, CHAdeMO, Bharat DC-001",
+    "latitude": 13.047715,
+    "longitude": 80.254143,
+    "": ""
+  },
+  {
+    "name": "Taj Wellington Mews",
+    "address": "Taj Wellington Mews Ramanujan It City Rajiv Gandhi Salai Omr",
+    "Contact": 8527000290,
+    "Number of slot": "Slots - 2",
+    "Type of slot": "CCS-2",
+    "latitude": 12.991092,
+    "longitude": 80.250242,
+    "": ""
+  }
+]
